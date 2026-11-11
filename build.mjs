@@ -132,6 +132,7 @@ ${og}
 <link rel="preload" href="${L('assets/fonts/inter-tight-latin-wght-normal.woff2')}" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="${L('assets/css/site.css')}">
 <script>document.documentElement.classList.add('js')</script>
+${FILE_LINKS ? '' : `<script type="module">import { inject } from '/assets/js/vercel-analytics.mjs'; inject();</script>`}
 ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld)}</script>` : ''}
 </head>
 <body>
@@ -783,6 +784,8 @@ const redirects = [
 for (const s of services) for (const o of s.old) redirects.push([o, `/training/${s.slug}/`]);
 for (const t of trainers) redirects.push([`/${t.slug}/`, `/trainers/${t.slug}/`]);
 write('_redirects', redirects.filter(([a, b]) => a !== b).map(([a, b]) => `${a} ${b} 301`).join('\n') + '\n');
+// Vercel Web Analytics: vanilla inject() from @vercel/analytics (no framework). Skipped in the file:// preview.
+if (!FILE_LINKS) fs.copyFileSync(path.join(nm, '@vercel/analytics/dist/index.mjs'), path.join(OUT, 'assets/js/vercel-analytics.mjs'));
 // Vercel reads vercel.json from the repo root: output dir, trailing slashes, same 301s as _redirects
 fs.writeFileSync(
   path.join(__dir, 'vercel.json'),
