@@ -1,0 +1,201 @@
+{
+ "slug": "roman-blake",
+ "name": "Roman Blake",
+ "name_from_nav": "Roman Blake",
+ "title": "Certified Personal Trainer",
+ "url": "https://sohofittampa.com/roman-blake/",
+ "seo": {
+  "title": "Roman - Certified Personal Trainer - Soho Fit Tampa",
+  "meta_description": "Roman - Part of being a successful trainer is being able to work with all fitness levels & overcoming adversity while achieving results.",
+  "canonical": "https://sohofittampa.com/roman-blake/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "open_graph": {
+   "og:url": "https://sohofittampa.com/roman-blake/",
+   "og:type": "article",
+   "og:title": "Roman - Certified Personal Trainer - Soho Fit Tampa",
+   "og:description": "Roman - Part of being a successful trainer is being able to work with all fitness levels & overcoming adversity while achieving results.",
+   "og:image": "",
+   "og:locale": "en_US",
+   "og:site_name": "Soho Fit Tampa",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "4 minutes"
+  },
+  "h1": [
+   "ROMAN BLAKE",
+   "TAKE CONTROL OF YOUR HEALTH"
+  ],
+  "yoast_schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://sohofittampa.com/roman-blake/",
+     "url": "https://sohofittampa.com/roman-blake/",
+     "name": "Roman - Certified Personal Trainer - Soho Fit Tampa",
+     "isPartOf": {
+      "@id": "https://sohofittampa.com/#website"
+     },
+     "datePublished": "2025-04-10T09:16:18+00:00",
+     "dateModified": "2026-10-07T12:20:30+00:00",
+     "description": "Roman - Part of being a successful trainer is being able to work with all fitness levels & overcoming adversity while achieving results.",
+     "breadcrumb": {
+      "@id": "https://sohofittampa.com/roman-blake/#breadcrumb"
+     },
+     "inLanguage": "en-US",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://sohofittampa.com/roman-blake/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://sohofittampa.com/roman-blake/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "https://sohofittampa.com/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Roman Blake"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://sohofittampa.com/#website",
+     "url": "https://sohofittampa.com/",
+     "name": "Soho Fit Tampa",
+     "description": "Personal Training Fitness Studio",
+     "publisher": {
+      "@id": "https://sohofittampa.com/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://sohofittampa.com/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://sohofittampa.com/#organization",
+     "name": "Soho Fit Tampa",
+     "url": "https://sohofittampa.com/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://sohofittampa.com/#/schema/logo/image/",
+      "url": "https://sohofittampa.com/wp-content/uploads/2022/09/cropped-Screen-Shot-2022-09-13-at-7.34.23-AM.png",
+      "contentUrl": "https://sohofittampa.com/wp-content/uploads/2022/09/cropped-Screen-Shot-2022-09-13-at-7.34.23-AM.png",
+      "width": 1034,
+      "height": 352,
+      "caption": "Soho Fit Tampa"
+     },
+     "image": {
+      "@id": "https://sohofittampa.com/#/schema/logo/image/"
+     },
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100085231894320"
+     ]
+    }
+   ]
+  },
+  "jsonld_raw_count": 1
+ },
+ "photos": [
+  {
+   "type": "image",
+   "source_url": "https://sohofittampa.com/wp-content/uploads/2025/04/IMG_0267.jpg",
+   "alt": null,
+   "asset_id": "A0459",
+   "local_path": "public/assets/trainers/IMG_0267.jpg"
+  }
+ ],
+ "bio_intro_md": [],
+ "bio_qa": [
+  {
+   "question": "How long have you been in fitness and can you describe your journey?",
+   "answer_md": "I have been training clients for over 4 years but have been in or around fitness since I was a kid. I enjoy working with a variety of clients, age groups, fitness levels and abilities with a focus on general and functional fitness, strength training, and athletic performance. Over my time as a trainer, I’ve expanded my skill set through experience and continued education which has helped clients achieve diverse goals, from extreme weight loss to sport specific conditioning, including basketball."
+  },
+  {
+   "question": "What made you want to get into fitness coaching?",
+   "answer_md": "As far back as a kid, I can remember wanting to be in the best shape possible for the sports I played all the way through college. This personal interest in improving my own health and performance eventually led to a passion for helping others do the same. I have always loved the fitness industry because it’s all about helping others in the most important way possible, to be healthier and to look and feel better. I love my clients, and I love helping them be the fittest versions of themselves."
+  },
+  {
+   "question": "What advice would you give for a new client exploring personal training to get started in their fitness journey or to enhance their current routine?",
+   "answer_md": "For someone new to personal training, my advice is to start with clear goals and be open to learning. Don’t worry about being perfect, focus on consistency and progress over time. A good trainer will work with you to help you get the best personalized routine, help you establish a routine and accountability and ensure proper form and safety while working out. Most importantly remember, the first step is coming in and getting started and then from there we will work every day toward your fitness goals."
+  },
+  {
+   "question": "What is a success highlight in your fitness career that you’re particularly proud of?",
+   "answer_md": "What I have been most proud of as a trainer so far are the multiple 90-day transformations I have been able to help my clients achieve who have started with me. As a trainer, it’s satisfying to show the client what is possible in a short amount of time if you put in time and effort. I have also really enjoyed working with all different age groups and fitness levels, coming up with challenging routines customized to the client and then watching their fitness levels improve. Lastly, I’ve helped numerous clients prepare for special events like their wedding, childbirth, postpartum etc. and starting from day one with the goal and working with the client through that goal is why I do what I do."
+  },
+  {
+   "question": "What are some things you like to do in your spare time?",
+   "answer_md": "When I’m not in the gym, I’m still looking for ways to be active and healthy, including playing basketball or getting outside for some vitamin D. I also enjoy quality time with family and friends. I spend a lot of time reading up on latest fitness trends, studies, health and rehab related learning and other things to keep me on top of my game."
+  },
+  {
+   "question": "What are some special skill sets and things that your clients should know about you?",
+   "answer_md": "Oher than general fitness, I have some training in rehab, injury prevention and functional fitness which helps me work with a wide variety of clients including those with previous injuries, seniors, clients with mobility issues and other enhanced fitness needs. This training allows me to work in a wide variety of workouts to work around previous injuries while still getting results in the gym.\n\nI love basketball and have played it almost my whole life. I enjoy working with youth clients to improve their game, on conditioning and generally being fit on and off the court."
+  }
+ ],
+ "directory_cards": [
+  {
+   "page": "https://sohofittampa.com/",
+   "card_image": {
+    "type": "image",
+    "source_url": "https://sohofittampa.com/wp-content/uploads/2025/07/roman.jpg",
+    "alt": null,
+    "asset_id": "A0463",
+    "local_path": "public/assets/trainers/roman.jpg"
+   },
+   "card_headings": [
+    "In-Studio Personal Trainer",
+    "Roman Blake"
+   ],
+   "cta_label": "Learn More Roman Blake",
+   "cta_href": "https://sohofittampa.com/roman-blake/"
+  },
+  {
+   "page": "https://sohofittampa.com/trainers/",
+   "card_image": {
+    "type": "image",
+    "source_url": "https://sohofittampa.com/wp-content/uploads/2025/07/roman.jpg",
+    "alt": null,
+    "asset_id": "A0463",
+    "local_path": "public/assets/trainers/roman.jpg"
+   },
+   "card_headings": [
+    "In-Studio Personal Trainer",
+    "Roman Blake"
+   ],
+   "cta_label": "Learn More About Roman Blake",
+   "cta_href": "https://sohofittampa.com/roman-blake/"
+  }
+ ],
+ "specialties_mentioned": null,
+ "content_file": "content/trainers/roman-blake.md",
+ "page_content_file": "content/pages/roman-blake.md",
+ "screenshot": "research/screenshots/desktop/roman-blake.jpg",
+ "related_asset_ids": [
+  "A0459",
+  "A0425"
+ ]
+}

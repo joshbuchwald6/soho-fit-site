@@ -1,0 +1,217 @@
+{
+ "slug": "joe-berg",
+ "name": "Joe Berg",
+ "name_from_nav": "Joe Berg",
+ "title": "Certified Personal Trainer",
+ "url": "https://sohofittampa.com/joe-berg/",
+ "seo": {
+  "title": "Joe Berg - Certified Personal Trainer - Soho Fit Tampa",
+  "meta_description": "Joe Berg - Part of being a successful trainer is being able to work with all fitness levels & overcoming adversity while achieving results.",
+  "canonical": "https://sohofittampa.com/joe-berg/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "open_graph": {
+   "og:url": "https://sohofittampa.com/joe-berg/",
+   "og:type": "article",
+   "og:title": "Joe Berg - Certified Personal Trainer - Soho Fit Tampa",
+   "og:description": "Joe Berg - Part of being a successful trainer is being able to work with all fitness levels & overcoming adversity while achieving results.",
+   "og:image": "",
+   "og:locale": "en_US",
+   "og:site_name": "Soho Fit Tampa",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "4 minutes"
+  },
+  "h1": [
+   "JOE BERG",
+   "TAKE CONTROL OF YOUR HEALTH"
+  ],
+  "yoast_schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://sohofittampa.com/joe-berg/",
+     "url": "https://sohofittampa.com/joe-berg/",
+     "name": "Joe Berg - Certified Personal Trainer - Soho Fit Tampa",
+     "isPartOf": {
+      "@id": "https://sohofittampa.com/#website"
+     },
+     "datePublished": "2026-07-14T11:21:21+00:00",
+     "dateModified": "2026-10-07T12:13:27+00:00",
+     "description": "Joe Berg - Part of being a successful trainer is being able to work with all fitness levels & overcoming adversity while achieving results.",
+     "breadcrumb": {
+      "@id": "https://sohofittampa.com/joe-berg/#breadcrumb"
+     },
+     "inLanguage": "en-US",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://sohofittampa.com/joe-berg/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://sohofittampa.com/joe-berg/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "https://sohofittampa.com/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Joe Berg"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://sohofittampa.com/#website",
+     "url": "https://sohofittampa.com/",
+     "name": "Soho Fit Tampa",
+     "description": "Personal Training Fitness Studio",
+     "publisher": {
+      "@id": "https://sohofittampa.com/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://sohofittampa.com/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://sohofittampa.com/#organization",
+     "name": "Soho Fit Tampa",
+     "url": "https://sohofittampa.com/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://sohofittampa.com/#/schema/logo/image/",
+      "url": "https://sohofittampa.com/wp-content/uploads/2022/09/cropped-Screen-Shot-2022-09-13-at-7.34.23-AM.png",
+      "contentUrl": "https://sohofittampa.com/wp-content/uploads/2022/09/cropped-Screen-Shot-2022-09-13-at-7.34.23-AM.png",
+      "width": 1034,
+      "height": 352,
+      "caption": "Soho Fit Tampa"
+     },
+     "image": {
+      "@id": "https://sohofittampa.com/#/schema/logo/image/"
+     },
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100085231894320"
+     ]
+    }
+   ]
+  },
+  "jsonld_raw_count": 1
+ },
+ "photos": [
+  {
+   "type": "image",
+   "source_url": "https://sohofittampa.com/wp-content/uploads/2026/07/Soho-Fit-Portrait-Design.jpg",
+   "alt": null,
+   "asset_id": "A0492",
+   "local_path": "public/assets/trainers/Soho-Fit-Portrait-Design.jpg"
+  }
+ ],
+ "bio_intro_md": [],
+ "bio_qa": [
+  {
+   "question": "How long have you been in the fitness industry? Can you describe your journey?",
+   "answer_md": "Fitness has been a part of my life for as long as I can remember. Growing up, I played hockey for more than 10 years, which taught me the value of hard work, discipline, and perseverance. Nearly 15 years ago, I discovered another passion when I began teaching indoor cycling, and for the past 10 years I’ve had the privilege of working as a personal trainer.\n\nHelping people become stronger, healthier, and more confident is what drives me every day. There’s nothing more rewarding than seeing clients accomplish goals they once thought were out of reach and knowing I played a role in helping them get there."
+  },
+  {
+   "question": "What made you want to get into fitness coaching?",
+   "answer_md": "I’ve always been passionate about living a healthy lifestyle, and I wanted a career where I could share that passion with others. Fitness coaching allows me to make a positive impact on people’s lives by helping them improve not only their physical health but also their confidence, energy, and overall well-being.\n\nWatching clients become stronger, healthier, and happier is what inspires me every day and reminds me why I love what I do."
+  },
+  {
+   "question": "What advice would you give someone considering personal training or looking to improve their current fitness routine?",
+   "answer_md": "Life has a way of throwing obstacles at all of us, especially as busy adults balancing careers, families, and countless responsibilities. If we let it, there will always be another reason to put our health on hold—until work slows down, after vacation, once the kids are back in school, or when life feels a little less hectic.\n\nMy biggest piece of advice to anyone considering working with a personal trainer is simple: just get started. You don’t have to wait for the perfect time because, in reality, that time rarely comes.\n\nI’ll meet you where you are. Whether mornings, afternoons, evenings, or weekends work best for your schedule, we’ll find a time that fits your life. If you’re dealing with injuries, limitations, or other challenges, we’ll work around them and create a plan that’s realistic, safe, and sustainable.\n\nThe most important step is the first one. Start today—not tomorrow and before you know it you’ll have carved out a new routine and instead of fitness being something you dread, it’ll be something you look forward to. We will make you the best version of yourself!"
+  },
+  {
+   "question": "What is a success highlight in your fitness career that you’re particularly proud of?",
+   "answer_md": "One of the proudest moments in my career was helping a client lose more than 100 pounds.\n\nThat transformation was about much more than weight loss. I watched them gain confidence, improve their health, and completely change their outlook on life. Seeing someone commit to the process, overcome obstacles, and transform both physically and mentally to become a much more confident, fit and healthy individual is incredibly rewarding, and experiences like that remind me why I became a personal trainer."
+  },
+  {
+   "question": "What do you enjoy doing outside of the gym?",
+   "answer_md": "Outside of the gym, I enjoy watching movies, following sports, spending time outdoors, and soaking up the sunshine whenever I can. Most importantly, I love spending quality time with my family and friends. It’s the perfect way to relax, recharge, and maintain a healthy balance between work and life."
+  },
+  {
+   "question": "What are some special skills or areas of expertise your clients should know about?",
+   "answer_md": "My coaching focuses on strength training, endurance-based circuit training, and helping clients build lean muscle while reducing body fat. I believe in creating personalized programs that are challenging, sustainable, and designed to help clients reach their individual goals.\n\nIn addition to personal training, I have several years of experience coaching youth hockey. Working with young athletes has strengthened my ability to motivate, teach proper movement with functional training, and build confidence through positive coaching.\n\nWhether I’m working with beginners, experienced exercisers, or young athletes, my goal is always the same: to help people build healthy habits, become stronger, and improve their quality of life through fitness."
+  }
+ ],
+ "directory_cards": [
+  {
+   "page": "https://sohofittampa.com/",
+   "card_image": {
+    "type": "image",
+    "source_url": "https://sohofittampa.com/wp-content/uploads/2026/08/Soho-Fit-Portrait-Design1.jpg",
+    "alt": null,
+    "asset_id": "A0493",
+    "local_path": "public/assets/trainers/Soho-Fit-Portrait-Design1.jpg"
+   },
+   "card_headings": [
+    "In-Studio Personal Trainer",
+    "JOE BERG"
+   ],
+   "cta_label": "Learn More About Joe Berg",
+   "cta_href": "https://sohofittampa.com/joe-berg/"
+  },
+  {
+   "page": "https://sohofittampa.com/trainers/",
+   "card_image": {
+    "type": "image",
+    "source_url": "https://sohofittampa.com/wp-content/uploads/2026/08/Soho-Fit-Portrait-Design1.jpg",
+    "alt": null,
+    "asset_id": "A0493",
+    "local_path": "public/assets/trainers/Soho-Fit-Portrait-Design1.jpg"
+   },
+   "card_headings": [
+    "In-Studio Personal Trainer",
+    "JOE BERG"
+   ],
+   "cta_label": "Learn More About Joe Berg",
+   "cta_href": "https://sohofittampa.com/joe-berg/"
+  },
+  {
+   "page": "https://sohofittampa.com/trainers/",
+   "card_image": {
+    "type": "image",
+    "source_url": "https://sohofittampa.com/wp-content/uploads/2026/07/Soho-Fit-Portrait-Design.jpg",
+    "alt": null,
+    "asset_id": "A0492",
+    "local_path": "public/assets/trainers/Soho-Fit-Portrait-Design.jpg"
+   },
+   "card_headings": [
+    "In-Studio Personal Trainer",
+    "JOE BERG"
+   ],
+   "cta_label": "Learn More About Joe Berg",
+   "cta_href": "https://sohofittampa.com/joe-berg/"
+  }
+ ],
+ "specialties_mentioned": null,
+ "content_file": "content/trainers/joe-berg.md",
+ "page_content_file": "content/pages/joe-berg.md",
+ "screenshot": "research/screenshots/desktop/joe-berg.jpg",
+ "related_asset_ids": [
+  "A0492",
+  "A0425"
+ ]
+}

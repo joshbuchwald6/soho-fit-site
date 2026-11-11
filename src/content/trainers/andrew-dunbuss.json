@@ -1,0 +1,201 @@
+{
+ "slug": "andrew-dunbuss",
+ "name": "ANDREW DUNBUSS",
+ "name_from_nav": "Andrew Dunbuss",
+ "title": "Certified Personal Trainer",
+ "url": "https://sohofittampa.com/andrew-dunbuss/",
+ "seo": {
+  "title": "Andrew Dunbuss - Certified Personal Trainer - Soho Fit Tampa",
+  "meta_description": "Andrew Dunbuss is a certified personal trainer with a decade of experience in fitness, specializing in Nutrition and Analytics. He has worked in D1 athletics, corporate health, and sports rehab. Passionate about helping clients reach their full potential, Andrew combines his expertise to create personalized training programs for optimal health and performance.",
+  "canonical": "https://sohofittampa.com/andrew-dunbuss/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "open_graph": {
+   "og:url": "https://sohofittampa.com/andrew-dunbuss/",
+   "og:type": "article",
+   "og:title": "Andrew Dunbuss - Certified Personal Trainer - Soho Fit Tampa",
+   "og:description": "Andrew Dunbuss is a certified personal trainer with a decade of experience in fitness, specializing in Nutrition and Analytics. He has worked in D1 athletics, corporate health, and sports rehab. Passionate about helping clients reach their full potential, Andrew combines his expertise to create personalized training programs for optimal health and performance.",
+   "og:image": "",
+   "og:locale": "en_US",
+   "og:site_name": "Soho Fit Tampa",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "4 minutes"
+  },
+  "h1": [
+   "ANDREW DUNBUSS",
+   "TAKE CONTROL OF YOUR HEALTH"
+  ],
+  "yoast_schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://sohofittampa.com/andrew-dunbuss/",
+     "url": "https://sohofittampa.com/andrew-dunbuss/",
+     "name": "Andrew Dunbuss - Certified Personal Trainer - Soho Fit Tampa",
+     "isPartOf": {
+      "@id": "https://sohofittampa.com/#website"
+     },
+     "datePublished": "2024-08-01T00:38:10+00:00",
+     "dateModified": "2026-10-07T12:18:13+00:00",
+     "description": "Andrew Dunbuss is a certified personal trainer with a decade of experience in fitness, specializing in Nutrition and Analytics. He has worked in D1 athletics, corporate health, and sports rehab. Passionate about helping clients reach their full potential, Andrew combines his expertise to create personalized training programs for optimal health and performance.",
+     "breadcrumb": {
+      "@id": "https://sohofittampa.com/andrew-dunbuss/#breadcrumb"
+     },
+     "inLanguage": "en-US",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://sohofittampa.com/andrew-dunbuss/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://sohofittampa.com/andrew-dunbuss/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "https://sohofittampa.com/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Andrew Dunbuss"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://sohofittampa.com/#website",
+     "url": "https://sohofittampa.com/",
+     "name": "Soho Fit Tampa",
+     "description": "Personal Training Fitness Studio",
+     "publisher": {
+      "@id": "https://sohofittampa.com/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://sohofittampa.com/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://sohofittampa.com/#organization",
+     "name": "Soho Fit Tampa",
+     "url": "https://sohofittampa.com/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://sohofittampa.com/#/schema/logo/image/",
+      "url": "https://sohofittampa.com/wp-content/uploads/2022/09/cropped-Screen-Shot-2022-09-13-at-7.34.23-AM.png",
+      "contentUrl": "https://sohofittampa.com/wp-content/uploads/2022/09/cropped-Screen-Shot-2022-09-13-at-7.34.23-AM.png",
+      "width": 1034,
+      "height": 352,
+      "caption": "Soho Fit Tampa"
+     },
+     "image": {
+      "@id": "https://sohofittampa.com/#/schema/logo/image/"
+     },
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100085231894320"
+     ]
+    }
+   ]
+  },
+  "jsonld_raw_count": 1
+ },
+ "photos": [
+  {
+   "type": "image",
+   "source_url": "https://sohofittampa.com/wp-content/uploads/2024/07/Trainers-Andrew-Busse.jpg",
+   "alt": null,
+   "asset_id": "A0450",
+   "local_path": "public/assets/trainers/Trainers-Andrew-Busse.jpg"
+  }
+ ],
+ "bio_intro_md": [],
+ "bio_qa": [
+  {
+   "question": "How long have you been in fitness and can you describe your journey?",
+   "answer_md": "The gym is like a second home to me, I have been in gyms 3-5 days a week be it\nfor my career or personal use, if not both, for going on 10 years. I am a health\nprofessional with specialized knowledge in the fields of Nutrition and Analytics\nwho has a great appreciation for physical and mental health. I have worked in D1\nathletics programs (NC State and University of Cincinnati), corporate health\n(Most recently IBM), and PT settings (both general and sports rehab)."
+  },
+  {
+   "question": "What made you want to get into fitness coaching?",
+   "answer_md": "Originally seeking to do biomedical engineering, I am a problem solver, but have found that my skills/passions draw me towards a career where I can use my expertise to analyze and incentivize people’s decisions to improve their overall efficiency, health, etc. … ultimately to maximize their ability to reach their goals and impact society. Simply put, I like to help people reach their full potential!"
+  },
+  {
+   "question": "What is a success or highlight in your fitness career that you’re particularly proud of?",
+   "answer_md": "I am proud to be in a field where I love what I do. I am grateful for having been given the opportunity to help every individual I have come into contact with over the last 7 years of my professional journey. It is awesome when I get to explain exercise and nutrition concepts to individuals who are interested in learning them so that they can improve their health and habits moving forward. I get it though some people just like to work hard and spare the details! I have been a part of the conditioning of 2 teams who have reached the final four in D1 basketball and have been given the opportunity to work with many elite athletes and sport teams in my field."
+  },
+  {
+   "question": "What are some things that you like to do in your spare time?",
+   "answer_md": "I enjoy watching competition at almost any level. Basketball and golf are my\nfavorite pastimes. I enjoy reading and learning from individuals who are masters\nof their craft and knowledgeable in their field, in addition to different characters\nthroughout history from which we can learn important context and life lessons\nfrom. I have also swam a mile in 34 minutes and biked over 20 miles in the past."
+  },
+  {
+   "question": "If you had one piece of advice for a client who is transitioning to a new trainer and possibly deviating from their comfort levels, what would it be?",
+   "answer_md": "With any serious endeavor in life it is imperative to have goals, bring them with\nyou to your first session. A credible trainer will use their knowledge along with\nyour goals to develop a personalized program for you and ensure your physical\nneeds are being met. One thing I have learned over the years is that providing\nhealth services is about meeting people where they are already at and helping\nthem to grow and develop from there, not stuffing your latest program or usual\nmethods down their throat. We are all creatures of habit. It is important for us to\nlean into being uncomfortable and develop new skills."
+  },
+  {
+   "question": "What are some of your special skill sets and things that your clients should\nknow about you?",
+   "answer_md": "I have a master’s degree in Nutrition Sciences. I am a functional training\nspecialist. Not sure about what functional training is? Ask me more in person! I\nam working on learning to do controlled flips on solid ground and jump higher. I\ntaught myself how to juggle one summer. I want to learn how to speak another\nlanguage and play the saxophone."
+  }
+ ],
+ "directory_cards": [
+  {
+   "page": "https://sohofittampa.com/",
+   "card_image": {
+    "type": "image",
+    "source_url": "https://sohofittampa.com/wp-content/uploads/2024/07/Trainers-Andrew-Busse.jpg",
+    "alt": null,
+    "asset_id": "A0450",
+    "local_path": "public/assets/trainers/Trainers-Andrew-Busse.jpg"
+   },
+   "card_headings": [
+    "In-Studio Personal Trainer",
+    "Andrew Dunbuss"
+   ],
+   "cta_label": "Learn More About Andrew",
+   "cta_href": "https://sohofittampa.com/andrew-dunbuss/"
+  },
+  {
+   "page": "https://sohofittampa.com/trainers/",
+   "card_image": {
+    "type": "image",
+    "source_url": "https://sohofittampa.com/wp-content/uploads/2024/07/Trainers-Andrew-Busse.jpg",
+    "alt": null,
+    "asset_id": "A0450",
+    "local_path": "public/assets/trainers/Trainers-Andrew-Busse.jpg"
+   },
+   "card_headings": [
+    "In-Studio Personal Trainer",
+    "Andrew Dunbuss"
+   ],
+   "cta_label": "Learn More About Andrew",
+   "cta_href": "https://sohofittampa.com/andrew-dunbuss/"
+  }
+ ],
+ "specialties_mentioned": null,
+ "content_file": "content/trainers/andrew-dunbuss.md",
+ "page_content_file": "content/pages/andrew-dunbuss.md",
+ "screenshot": "research/screenshots/desktop/andrew-dunbuss.jpg",
+ "related_asset_ids": [
+  "A0450",
+  "A0425"
+ ]
+}

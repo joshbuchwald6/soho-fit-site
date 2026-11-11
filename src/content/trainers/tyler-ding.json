@@ -1,0 +1,201 @@
+{
+ "slug": "tyler-ding",
+ "name": "TYLER DING",
+ "name_from_nav": "Tyler Ding",
+ "title": "Certified Personal Trainer",
+ "url": "https://sohofittampa.com/tyler-ding/",
+ "seo": {
+  "title": "Tyler Ding - Certified Personal Trainer - Soho Fit Tampa",
+  "meta_description": "Tyler Ding - Part of being a successful trainer is being able to work with all fitness levels & overcoming adversity while achieving results.",
+  "canonical": "https://sohofittampa.com/tyler-ding/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "open_graph": {
+   "og:url": "https://sohofittampa.com/tyler-ding/",
+   "og:type": "article",
+   "og:title": "Tyler Ding - Certified Personal Trainer - Soho Fit Tampa",
+   "og:description": "Tyler Ding - Part of being a successful trainer is being able to work with all fitness levels & overcoming adversity while achieving results.",
+   "og:image": "",
+   "og:locale": "en_US",
+   "og:site_name": "Soho Fit Tampa",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "3 minutes"
+  },
+  "h1": [
+   "TYLER DING",
+   "TAKE CONTROL OF YOUR HEALTH"
+  ],
+  "yoast_schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://sohofittampa.com/tyler-ding/",
+     "url": "https://sohofittampa.com/tyler-ding/",
+     "name": "Tyler Ding - Certified Personal Trainer - Soho Fit Tampa",
+     "isPartOf": {
+      "@id": "https://sohofittampa.com/#website"
+     },
+     "datePublished": "2022-11-20T20:51:47+00:00",
+     "dateModified": "2026-10-07T12:19:35+00:00",
+     "description": "Tyler Ding - Part of being a successful trainer is being able to work with all fitness levels & overcoming adversity while achieving results.",
+     "breadcrumb": {
+      "@id": "https://sohofittampa.com/tyler-ding/#breadcrumb"
+     },
+     "inLanguage": "en-US",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://sohofittampa.com/tyler-ding/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://sohofittampa.com/tyler-ding/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "https://sohofittampa.com/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Tyler Ding"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://sohofittampa.com/#website",
+     "url": "https://sohofittampa.com/",
+     "name": "Soho Fit Tampa",
+     "description": "Personal Training Fitness Studio",
+     "publisher": {
+      "@id": "https://sohofittampa.com/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://sohofittampa.com/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://sohofittampa.com/#organization",
+     "name": "Soho Fit Tampa",
+     "url": "https://sohofittampa.com/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://sohofittampa.com/#/schema/logo/image/",
+      "url": "https://sohofittampa.com/wp-content/uploads/2022/09/cropped-Screen-Shot-2022-09-13-at-7.34.23-AM.png",
+      "contentUrl": "https://sohofittampa.com/wp-content/uploads/2022/09/cropped-Screen-Shot-2022-09-13-at-7.34.23-AM.png",
+      "width": 1034,
+      "height": 352,
+      "caption": "Soho Fit Tampa"
+     },
+     "image": {
+      "@id": "https://sohofittampa.com/#/schema/logo/image/"
+     },
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100085231894320"
+     ]
+    }
+   ]
+  },
+  "jsonld_raw_count": 1
+ },
+ "photos": [
+  {
+   "type": "image",
+   "source_url": "https://sohofittampa.com/wp-content/uploads/2024/03/Trainers-Tyler-Ding-2.jpg",
+   "alt": "Tyler Ding - SOHO Fit Personal Training - South Tampa",
+   "asset_id": "A0446",
+   "local_path": "public/assets/trainers/Trainers-Tyler-Ding-2.jpg"
+  }
+ ],
+ "bio_intro_md": [],
+ "bio_qa": [
+  {
+   "question": "How long have you been training?",
+   "answer_md": "I have been training for almost 10 years. Growing up, I played all sports but as I\nentered high school, all of my focus was on baseball. I continued to play baseball\nat UT for 4 years while I got my exercise science degree."
+  },
+  {
+   "question": "What made you want to get into fitness coaching?",
+   "answer_md": "I got into fitness coaching because as a kid, my father kept my brother and I\nactive and as I got older, I always had athletic trainers with my sports. This\ninspired me to become a trainer and help others reach their goals. I was always\nfascinated with the human body and how it can change with just minor\nadjustments and some consistency."
+  },
+  {
+   "question": "What is a success or highlight in your fitness career that you’re particularly proud of?",
+   "answer_md": "I am proud that my first three female clients lost 80 to 100 pounds each, and it\nwasn’t just about the weight. I watched them turn into completely new, confident people who I know are still fit and active every day. They truly achieved life-\nchanging results! I’ve trained multiple first responders and other folks needing to\nprepare for specific fitness requirements (and have 100% success rate in passing\ntheir tests), have trained multiple expecting mothers through pregnancy all the\nway to birth and after, and have helped dozens of clients get in their best shape\nfor their wedding day. Being part of my clients’ lives through all of these events\nis definitely a big highlight in my career thus far."
+  },
+  {
+   "question": "What are some things that you like to do in your spare time?",
+   "answer_md": "When I’m not [training](https://sohofittampa.com/studio-personal-training/), I love watching sports, going for bike rides, going to the\npool and the beach, and attending concerts."
+  },
+  {
+   "question": "If you had one piece of advice for a client who is transitioning to a new trainer and possibly deviating from their comfort levels, what would it be?",
+   "answer_md": "My advice to clients who are starting with a new trainer is first, take the step to\nget going and then once you’re started, trust the process and be open-minded.\nThere are so many different ways to be fit and achieve results. Part of being a\nsuccessful trainer is being able to work with all fitness levels and overcoming\nadversity while achieving results."
+  },
+  {
+   "question": "What are some of your special skill sets and things that your clients should\nknow about you?",
+   "answer_md": "Clients should know that was honored and voted best Personal Trainer in South\nTampa by South Tampa magazine, nominated (two years running), and voted\nfor, by my clients. This was a huge honor and I love what I do every day, and it\nwas great to be recognized.\n\nAs far as my special skills, I have general fitness abilities in all areas from weight\nloss, to weight gain (hard gainers), I’ve prepared first responders and other folks\nfor specific fitness requirements and testing and I have extensive knowledge in\nbaseball and sports-related training. I’ve also trained expected mothers, young\nkids and teens, and even prepared over a dozen clients for their wedding day."
+  }
+ ],
+ "directory_cards": [
+  {
+   "page": "https://sohofittampa.com/",
+   "card_image": {
+    "type": "image",
+    "source_url": "https://sohofittampa.com/wp-content/uploads/2024/03/Trainers-Tyler-Ding-2.jpg",
+    "alt": "Tyler Ding - SOHO Fit Personal Training - South Tampa",
+    "asset_id": "A0446",
+    "local_path": "public/assets/trainers/Trainers-Tyler-Ding-2.jpg"
+   },
+   "card_headings": [
+    "In-Studio Personal Trainer",
+    "Tyler Ding"
+   ],
+   "cta_label": "Learn More About Tyler",
+   "cta_href": "https://sohofittampa.com/tyler-ding/"
+  },
+  {
+   "page": "https://sohofittampa.com/trainers/",
+   "card_image": {
+    "type": "image",
+    "source_url": "https://sohofittampa.com/wp-content/uploads/2024/03/Trainers-Tyler-Ding-2.jpg",
+    "alt": "Tyler Ding - SOHO Fit Personal Training - South Tampa",
+    "asset_id": "A0446",
+    "local_path": "public/assets/trainers/Trainers-Tyler-Ding-2.jpg"
+   },
+   "card_headings": [
+    "In-Studio Personal Trainer",
+    "Tyler Ding"
+   ],
+   "cta_label": "Learn More About Tyler",
+   "cta_href": "https://sohofittampa.com/tyler-ding/"
+  }
+ ],
+ "specialties_mentioned": null,
+ "content_file": "content/trainers/tyler-ding.md",
+ "page_content_file": "content/pages/tyler-ding.md",
+ "screenshot": "research/screenshots/desktop/tyler-ding.jpg",
+ "related_asset_ids": [
+  "A0446",
+  "A0425"
+ ]
+}

@@ -1,0 +1,78 @@
+# SOHO Fit website (redesign, Direction C+)
+
+Static, dependency-free site for SOHO Fit, private personal training in South Tampa. 29 pages, clean URLs, no framework, no runtime JS libraries.
+
+## Deploy
+
+Pushing to `main` builds the site and deploys `dist/` to GitHub Pages (`.github/workflows/pages.yml`).
+One-time setup: **Settings → Pages → Source: GitHub Actions**.
+
+`dist/` is also committed, so it can be dropped onto any static host as is (Netlify, Cloudflare Pages, Vercel). `_redirects` (Netlify / Cloudflare Pages format) 301s every original WordPress URL to its new home.
+
+## Build locally
+
+```bash
+npm install                             # fonts only (Fontsource, SIL OFL)
+npm run build                           # -> dist/   (clean URLs, deploy this)
+LINKS=file OUT=preview node build.mjs   # -> preview/ (explicit index.html links, works from file://)
+python3 -I tools/prep_images.py <archive-root>  # regenerate src/img from the original archive (joshbuchwald6/soho_site_arch)
+```
+
+Content copied from the original archive (FAQs, testimonials, trainer bios, privacy policy) lives in `src/content/`.
+
+## Structure
+
+| Path | What |
+|---|---|
+| `src/data.mjs` | Curated business content: contact, studios, 8 services, 12 trainers, 6 reviews. Every line traces to the archive. |
+| `build.mjs` | Templates + build. Trainer bios, FAQs and the privacy policy are read from `src/content/`. Fails the build if a review isn't verbatim. |
+| `src/css/site.css` | The whole design system in one stylesheet. |
+| `src/js/site.js` | All interactions (~300 lines, vanilla). |
+| `src/img/` | Optimized WebP derivatives + `image-manifest.json` mapping each back to its original archive path. |
+| `tools/prep_images.py` | Builds every derivative (resize, 4:5 portrait crops, red/blue brand duotones). Originals are never modified. |
+
+## Pages (29)
+
+Home · Training + 8 programs · Trainers + 12 profiles · Studios (about, locations, hours, FAQ) · Book · Careers · Partnerships · Privacy · 404
+
+## Design system (C+)
+
+- **Color, all from the logo:** SOHO Red `#D03D4D` (primary field, CTAs), SOHO Blue `#2D8CB5` (second field, ink text only), Ink `#0E0E0E`, Paper `#F5F3EF`. One field color per section.
+- **Type:** Archivo Expanded Black (matches the wordmark) for headlines, Archivo Condensed for lists and numbers, Inter Tight for reading. Self-hosted, SIL OFL.
+- **Motifs:** the open ring from the logo (hero), red/blue duotones for studio photography, the service marquee (twice per page max).
+- **Logo:** used as supplied. Full color on paper, the existing light version on ink, solid white on red/blue.
+- **Motion:** one curve, `cubic-bezier(.2,.7,0,1)`. Hero ring opens into the studio on scroll; headlines rise from a mask; trainer stage swaps; sticky "how it works". All of it is off under `prefers-reduced-motion`.
+
+## Consultation form: needs one decision
+
+There was no online booking system on the old site (WPForms + phone). The new form validates input and then:
+
+- **Today:** opens the visitor's email app with a pre-filled request to `benjamin@sohofittampa.com` (the only published email). It never fakes a "sent" message.
+- **To make it submit directly:** set `FORM_ENDPOINT` at the top of `src/js/site.js` to a form backend (Formspree, Basin, Netlify Forms, a serverless function) and rebuild.
+
+Call / text `813-586-0760` is offered next to every booking action.
+
+## Image selection and gaps
+
+**Used (authentic SOHO):** 9 studio photos from the 2021 shoot (red/blue duotone), 12 trainer portraits (full color, cropped to 4:5), the logo set.
+
+**Used, flagged for replacement:** service images for At-Home, Corporate, Kids & Teens, Prenatal, Nutrition, InBody and Stretch are stock or design uploads that were on the live site. They're duotoned so they sit with the rest, but they aren't SOHO's own photography.
+
+**Not used:** all 306 Powerlift theme-demo images, the AI-generated `ChatGPT-Image-…` file, `Untitled-1/2.jpg`, placeholders, departed trainers' portraits.
+
+**Gaps worth a half-day shoot:**
+1. Real training in action (trainer + client) at both studios. There is none in the archive.
+2. Any photo of the Westshore studio.
+3. Higher-resolution trainer portraits (current: 480–600px wide; several are phone shots). Jordan Ding's photo is a back shot with no face.
+4. Video: none exists. A 10–15s loop of a session would replace the hero still.
+5. Vector logo (SVG/AI). Only PNGs exist.
+
+## Content decisions to confirm
+
+- **Hours conflict:** footer says Mon–Fri 5am–9pm, weekends by appointment. A homepage FAQ says sessions run 5am–8pm plus Saturdays. The site uses the footer. FAQ text is shown verbatim.
+- **Reviews:** 4 of 16 reviews name trainers no longer on the roster (Erik Jarry, Allison Hoyos) and are excluded. Relative dates ("3 months ago") were dropped since they go stale.
+- **Name:** standardized to "SOHO Fit" in new copy; verbatim bios/FAQs keep their original spelling.
+- **Bayli King / Bayli Monck:** the prenatal page linked `/bayli-monck/`; it now redirects to Bayli King's profile. Confirm she's the ISSA pre/postnatal instructor.
+- **Corporate FAQ:** the archive repeats one question heading over a pricing answer; it's relabeled "How much does a corporate program cost?".
+- **Careers:** the old form took resume uploads; the new page links to email. Swap in an ATS link if you have one.
+- **Analytics/chat:** GTM, Meta Pixel, Bing UET, Tawk.to and UserWay were on the old site and are not included. Add back only what you still use.

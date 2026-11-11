@@ -1,0 +1,201 @@
+{
+ "slug": "jd",
+ "name": "Jordan Ding",
+ "name_from_nav": "Jordan Ding",
+ "title": "At-Home Personal Trainer",
+ "url": "https://sohofittampa.com/jd/",
+ "seo": {
+  "title": "Jordan Ding - AT-Home Personal Trainer - Soho Fit Tampa",
+  "meta_description": "I am one of Sohofit’s at-home trainers who are approved to train clients at their home or community gyms, as well as the Sohofit studio.",
+  "canonical": "https://sohofittampa.com/jd/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "open_graph": {
+   "og:url": "https://sohofittampa.com/jd/",
+   "og:type": "article",
+   "og:title": "Jordan Ding - AT-Home Personal Trainer - Soho Fit Tampa",
+   "og:description": "I am one of Sohofit’s at-home trainers who are approved to train clients at their home or community gyms, as well as the Sohofit studio.",
+   "og:image": "",
+   "og:locale": "en_US",
+   "og:site_name": "Soho Fit Tampa",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "3 minutes"
+  },
+  "h1": [
+   "JORDAN DING",
+   "TAKE CONTROL OF YOUR HEALTH"
+  ],
+  "yoast_schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://sohofittampa.com/jd/",
+     "url": "https://sohofittampa.com/jd/",
+     "name": "Jordan Ding - AT-Home Personal Trainer - Soho Fit Tampa",
+     "isPartOf": {
+      "@id": "https://sohofittampa.com/#website"
+     },
+     "datePublished": "2022-11-23T01:27:39+00:00",
+     "dateModified": "2026-10-07T12:18:53+00:00",
+     "description": "I am one of Sohofit’s at-home trainers who are approved to train clients at their home or community gyms, as well as the Sohofit studio.",
+     "breadcrumb": {
+      "@id": "https://sohofittampa.com/jd/#breadcrumb"
+     },
+     "inLanguage": "en-US",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://sohofittampa.com/jd/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://sohofittampa.com/jd/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "https://sohofittampa.com/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Jordan Ding"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://sohofittampa.com/#website",
+     "url": "https://sohofittampa.com/",
+     "name": "Soho Fit Tampa",
+     "description": "Personal Training Fitness Studio",
+     "publisher": {
+      "@id": "https://sohofittampa.com/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://sohofittampa.com/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://sohofittampa.com/#organization",
+     "name": "Soho Fit Tampa",
+     "url": "https://sohofittampa.com/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://sohofittampa.com/#/schema/logo/image/",
+      "url": "https://sohofittampa.com/wp-content/uploads/2022/09/cropped-Screen-Shot-2022-09-13-at-7.34.23-AM.png",
+      "contentUrl": "https://sohofittampa.com/wp-content/uploads/2022/09/cropped-Screen-Shot-2022-09-13-at-7.34.23-AM.png",
+      "width": 1034,
+      "height": 352,
+      "caption": "Soho Fit Tampa"
+     },
+     "image": {
+      "@id": "https://sohofittampa.com/#/schema/logo/image/"
+     },
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100085231894320"
+     ]
+    }
+   ]
+  },
+  "jsonld_raw_count": 1
+ },
+ "photos": [
+  {
+   "type": "image",
+   "source_url": "https://sohofittampa.com/wp-content/uploads/2023/01/Trainers-JD-White.jpg",
+   "alt": "JD White, Personal Trainer at Soho Fit Tampa - South Tampa Personal Training Fitness Studio",
+   "asset_id": "A0436",
+   "local_path": "public/assets/trainers/Trainers-JD-White.jpg"
+  }
+ ],
+ "bio_intro_md": [],
+ "bio_qa": [
+  {
+   "question": "How long have you been training?",
+   "answer_md": "I’ve been training clients for over 9 years but have been in sports and fitness\narena since I was a teen playing sports."
+  },
+  {
+   "question": "What made you want to get into fitness coaching?",
+   "answer_md": "As a kid, I was always active and enjoyed sports and was fascinated by the body\nand how actions and activities can make your body change. I love sports and\nplayed 2 years at a junior college for baseball then played at FAU Division 1\nbaseball. I’ve always wanted to become a fitness coach because I fell in love with\nworking out and the journey it took for me. My older brother is also a trainer and\nI’ve always looked up to him as he was a few years ahead of me in sports and\npersonal training."
+  },
+  {
+   "question": "What is a success or highlight in your fitness career that you’re particularly\nproud of?",
+   "answer_md": "I’m proud to have helped over 10 clients lose 50lbs plus and hundreds of\nothers gain muscle and get in their best shape. I’ve trained numerous student-athletes as young as 13 and seniors (up to 82 years old), have trained special\npopulations such as folks recovering from strokes and other injuries, and helped\nothers meet fitness objectives and goals they have set in their lives like getting\nfit before their wedding day and many other fitness milestones. Also, I\njust love helping people and helping them find their fitness."
+  },
+  {
+   "question": "What are some things that you like to do in your spare time?",
+   "answer_md": "In my spare time, I like to play sports outside, fish, go to the beach, and hang out\nand meet new people. I love the Lightning, the Bucs, the Rays, and really watching\nand playing every type of sport. I am an avid pickleball player and love to coach\nothers on pickleball and bring new people into the sport. It’s fun and a great way\nto stay active."
+  },
+  {
+   "question": "If you had one piece of advice for a client who is transitioning to a new trainer\nand possibly deviating from their comfort levels, what would it be?",
+   "answer_md": "For everyone looking for a trainer, I recommend you ensure you find a quality\ntrainer with a background in fitness, education, and experience, who really\nunderstands the body. It’s very important for the best results that your trainer understands how to train you specific to your fitness goals. Other advice is to just\nget going. The hardest thing to do in starting your fitness journey is to just walk\nthrough the door the first time and get going. Once you start working out and\nseeing changes you’ll fall in love with the process."
+  },
+  {
+   "question": "What are some of your special skill sets and things that your clients should\nknow about you?",
+   "answer_md": "I am an A+ pickleball player and play in tournaments. I love and am good at\nbaseball and if your goal is to get ripped, that’s my specialty. I am also one of\nSohofit’s at-home trainers that are approved to train clients at their home or\ncommunity gyms, as well as the Sohofit studio."
+  }
+ ],
+ "directory_cards": [
+  {
+   "page": "https://sohofittampa.com/",
+   "card_image": {
+    "type": "image",
+    "source_url": "https://sohofittampa.com/wp-content/uploads/2023/01/Trainers-JD-White.jpg",
+    "alt": "JD White, Personal Trainer at Soho Fit Tampa - South Tampa Personal Training Fitness Studio",
+    "asset_id": "A0436",
+    "local_path": "public/assets/trainers/Trainers-JD-White.jpg"
+   },
+   "card_headings": [
+    "At-Home Personal Trainer",
+    "Jordan Ding"
+   ],
+   "cta_label": "Learn More About Jordan",
+   "cta_href": "https://sohofittampa.com/jd/"
+  },
+  {
+   "page": "https://sohofittampa.com/trainers/",
+   "card_image": {
+    "type": "image",
+    "source_url": "https://sohofittampa.com/wp-content/uploads/2023/01/Trainers-JD-White.jpg",
+    "alt": "JD White, Personal Trainer at Soho Fit Tampa - South Tampa Personal Training Fitness Studio",
+    "asset_id": "A0436",
+    "local_path": "public/assets/trainers/Trainers-JD-White.jpg"
+   },
+   "card_headings": [
+    "At-Home Personal Trainer",
+    "Jordan Ding"
+   ],
+   "cta_label": "Learn More About Jordan",
+   "cta_href": "https://sohofittampa.com/jd/"
+  }
+ ],
+ "specialties_mentioned": null,
+ "content_file": "content/trainers/jd.md",
+ "page_content_file": "content/pages/jd.md",
+ "screenshot": "research/screenshots/desktop/jd.jpg",
+ "related_asset_ids": [
+  "A0436",
+  "A0425"
+ ]
+}

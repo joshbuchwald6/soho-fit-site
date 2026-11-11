@@ -1,0 +1,210 @@
+{
+ "slug": "lisa-scalzo",
+ "name": "Lisa Scalzo",
+ "name_from_nav": "Lisa Scalzo",
+ "title": "Certified Personal Trainer",
+ "url": "https://sohofittampa.com/lisa-scalzo/",
+ "seo": {
+  "title": "Lisa Scalzo - Certified Personal Trainer - Soho Fit Tampa",
+  "meta_description": "I'm a Certified Nutrition Coach and a Certified Functional Movement Specialist, allowing me to take a comprehensive approach that combines exercise, movement quality, and nutrition to help clients achieve lasting results.",
+  "canonical": "https://sohofittampa.com/lisa-scalzo/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "open_graph": {
+   "og:url": "https://sohofittampa.com/lisa-scalzo/",
+   "og:type": "article",
+   "og:title": "Lisa Scalzo - Certified Personal Trainer - Soho Fit Tampa",
+   "og:description": "I'm a Certified Nutrition Coach and a Certified Functional Movement Specialist, allowing me to take a comprehensive approach that combines exercise, movement quality, and nutrition to help clients achieve lasting results.",
+   "og:image": "",
+   "og:locale": "en_US",
+   "og:site_name": "Soho Fit Tampa",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "4 minutes"
+  },
+  "h1": [
+   "LISA SCALZO",
+   "TAKE CONTROL OF YOUR HEALTH"
+  ],
+  "yoast_schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://sohofittampa.com/lisa-scalzo/",
+     "url": "https://sohofittampa.com/lisa-scalzo/",
+     "name": "Lisa Scalzo - Certified Personal Trainer - Soho Fit Tampa",
+     "isPartOf": {
+      "@id": "https://sohofittampa.com/#website"
+     },
+     "datePublished": "2026-07-08T09:35:57+00:00",
+     "dateModified": "2026-10-07T12:14:52+00:00",
+     "description": "I'm a Certified Nutrition Coach and a Certified Functional Movement Specialist, allowing me to take a comprehensive approach that combines exercise, movement quality, and nutrition to help clients achieve lasting results.",
+     "breadcrumb": {
+      "@id": "https://sohofittampa.com/lisa-scalzo/#breadcrumb"
+     },
+     "inLanguage": "en-US",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://sohofittampa.com/lisa-scalzo/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://sohofittampa.com/lisa-scalzo/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "https://sohofittampa.com/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Lisa Scalzo"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://sohofittampa.com/#website",
+     "url": "https://sohofittampa.com/",
+     "name": "Soho Fit Tampa",
+     "description": "Personal Training Fitness Studio",
+     "publisher": {
+      "@id": "https://sohofittampa.com/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://sohofittampa.com/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://sohofittampa.com/#organization",
+     "name": "Soho Fit Tampa",
+     "url": "https://sohofittampa.com/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://sohofittampa.com/#/schema/logo/image/",
+      "url": "https://sohofittampa.com/wp-content/uploads/2022/09/cropped-Screen-Shot-2022-09-13-at-7.34.23-AM.png",
+      "contentUrl": "https://sohofittampa.com/wp-content/uploads/2022/09/cropped-Screen-Shot-2022-09-13-at-7.34.23-AM.png",
+      "width": 1034,
+      "height": 352,
+      "caption": "Soho Fit Tampa"
+     },
+     "image": {
+      "@id": "https://sohofittampa.com/#/schema/logo/image/"
+     },
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100085231894320"
+     ]
+    }
+   ]
+  },
+  "jsonld_raw_count": 1
+ },
+ "photos": [
+  {
+   "type": "image",
+   "source_url": "https://sohofittampa.com/wp-content/uploads/2026/07/Lisa-Scalzo.jpg",
+   "alt": "Lisa Scalzo",
+   "asset_id": "A0491",
+   "local_path": "public/assets/trainers/Lisa-Scalzo.jpg"
+  }
+ ],
+ "bio_intro_md": [
+  "I’ve been in the fitness industry for more than 20 years. My journey began while studying kinesiology in college, where a personal training course sparked what would become a lifelong passion and career.",
+  "Over the years, I’ve had the opportunity to wear many hats—from leading health clubs and developing coaching teams to working one-on-one with clients. While I’ve enjoyed the leadership side of fitness, my greatest passion has always been helping people move better, get stronger, and gain confidence in themselves.",
+  "Watching someone accomplish something they never thought possible—whether it’s eliminating pain, improving their health, weight loss, or simply feeling comfortable in their own body—is what continues to inspire me every day.",
+  "As an athlete, I experienced firsthand how life-changing great coaching can be. The guidance, accountability, and encouragement I received helped shape not only my athletic performance but also my confidence and mindset.",
+  "That experience inspired me to become the coach I once needed. Today, I’m passionate about helping people improve their strength, mobility, longevity, and overall quality of life. There’s nothing more rewarding than watching someone become stronger, move with greater confidence, and discover they’re capable of more than they ever imagined.",
+  "The biggest piece of advice I can give is simple: just get started.",
+  "So many people wait for the “perfect time.” They tell themselves they’ll begin after a vacation, once work slows down, or after another milestone. The truth is, there’s never a perfect time—there’s only today.",
+  "That’s why I encourage everyone to start with a complimentary consultation. We’ll talk about your goals, assess where you are today, and build a personalized plan that fits your lifestyle and sets you up for long-term success.",
+  "Fitness isn’t about quick fixes. It’s about building sustainable habits that you can maintain for years to come. Progress isn’t always linear, and setbacks are part of the journey. The people who achieve lasting results are the ones who stay consistent, trust the process, and keep showing up—even when life makes it tough to do so.",
+  "One of the highlights of my career was serving as a lead trainer in Washington, DC, where I had the opportunity to mentor and develop other coaches while working alongside an exceptional team of fitness professionals.",
+  "During that time, I also worked in a high-performance environment that included training Olympians. Helping elite athletes perform at their highest level while mentoring the next generation of coaches was an incredibly rewarding experience and one I’ll always be proud of.",
+  "Outside of coaching, I enjoy trail running, obstacle course racing, reading, and continually learning about movement, performance, and human potential. I’m naturally curious and always looking for ways to grow, both personally and professionally.",
+  "And whenever I get the chance, I’m perfectly happy catching up on some well-earned sleep.",
+  "Many of my colleagues refer to me as a mobility specialist because of my passion for biomechanics and functional movement. I believe moving well is the foundation for getting stronger, reducing pain, preventing injuries, and maintaining an active, independent lifestyle.",
+  "Throughout my career, I’ve worked with a wide range of clients, including athletes, military personnel, first responders, active older adults, and women over 40. As a woman over 40 myself, I understand the unique challenges of balancing fitness with the demands of a career, family, and everyday life. That’s why I’m especially passionate about helping women build strength, improve their health, and feel confident at every stage of life.",
+  "No matter a client’s starting point, my coaching philosophy is always the same: meet people where they are, understand their goals, and create a personalized plan that helps them move, feel, and perform at their very best.",
+  "In addition to more than two decades of coaching experience, I’m a Certified Nutrition Coach and a Certified Functional Movement Specialist, allowing me to take a comprehensive approach that combines exercise, movement quality, and nutrition to help clients achieve lasting results."
+ ],
+ "bio_qa": [],
+ "directory_cards": [
+  {
+   "page": "https://sohofittampa.com/",
+   "card_image": {
+    "type": "image",
+    "source_url": "https://sohofittampa.com/wp-content/uploads/2026/07/Lisa-Scalzo.jpg",
+    "alt": "Lisa Scalzo",
+    "asset_id": "A0491",
+    "local_path": "public/assets/trainers/Lisa-Scalzo.jpg"
+   },
+   "card_headings": [
+    "In-Studio Personal Trainer",
+    "Lisa Scalzo"
+   ],
+   "cta_label": "Learn More Lisa Scalzo",
+   "cta_href": "https://sohofittampa.com/lisa-scalzo/"
+  },
+  {
+   "page": "https://sohofittampa.com/trainers/",
+   "card_image": {
+    "type": "image",
+    "source_url": "https://sohofittampa.com/wp-content/uploads/2026/07/Lisa-Scalzo.jpg",
+    "alt": "Lisa Scalzo",
+    "asset_id": "A0491",
+    "local_path": "public/assets/trainers/Lisa-Scalzo.jpg"
+   },
+   "card_headings": [
+    "In-Studio Personal Trainer",
+    "Lisa Scalzo"
+   ],
+   "cta_label": "Learn More About Lisa Scalzo",
+   "cta_href": "https://sohofittampa.com/lisa-scalzo/"
+  },
+  {
+   "page": "https://sohofittampa.com/trainers/",
+   "card_image": {
+    "type": "image",
+    "source_url": "https://sohofittampa.com/wp-content/uploads/2026/07/Lisa-Scalzo.jpg",
+    "alt": "Lisa Scalzo",
+    "asset_id": "A0491",
+    "local_path": "public/assets/trainers/Lisa-Scalzo.jpg"
+   },
+   "card_headings": [
+    "In-Studio Personal Trainer",
+    "Lisa Scalzo"
+   ],
+   "cta_label": "Learn More About Lisa Scalzo",
+   "cta_href": "https://sohofittampa.com/lisa-scalzo/"
+  }
+ ],
+ "specialties_mentioned": null,
+ "content_file": "content/trainers/lisa-scalzo.md",
+ "page_content_file": "content/pages/lisa-scalzo.md",
+ "screenshot": "research/screenshots/desktop/lisa-scalzo.jpg",
+ "related_asset_ids": [
+  "A0491",
+  "A0425"
+ ]
+}

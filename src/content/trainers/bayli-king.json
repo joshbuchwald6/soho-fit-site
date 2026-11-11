@@ -1,0 +1,201 @@
+{
+ "slug": "bayli-king",
+ "name": "Bayli King",
+ "name_from_nav": "Bayli King",
+ "title": "Certified Personal Trainer",
+ "url": "https://sohofittampa.com/bayli-king/",
+ "seo": {
+  "title": "Bayli King - Certified Personal Trainer - Soho Fit Tampa",
+  "meta_description": "Bayli King - Part of being a successful trainer is being able to work with all fitness levels & overcoming adversity while achieving results.",
+  "canonical": "https://sohofittampa.com/bayli-king/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "open_graph": {
+   "og:url": "https://sohofittampa.com/bayli-king/",
+   "og:type": "article",
+   "og:title": "Bayli King - Certified Personal Trainer - Soho Fit Tampa",
+   "og:description": "Bayli King - Part of being a successful trainer is being able to work with all fitness levels & overcoming adversity while achieving results.",
+   "og:image": "",
+   "og:locale": "en_US",
+   "og:site_name": "Soho Fit Tampa",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "4 minutes"
+  },
+  "h1": [
+   "BAYLI KING",
+   "TAKE CONTROL OF YOUR HEALTH"
+  ],
+  "yoast_schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://sohofittampa.com/bayli-king/",
+     "url": "https://sohofittampa.com/bayli-king/",
+     "name": "Bayli King - Certified Personal Trainer - Soho Fit Tampa",
+     "isPartOf": {
+      "@id": "https://sohofittampa.com/#website"
+     },
+     "datePublished": "2025-07-09T09:06:02+00:00",
+     "dateModified": "2026-10-07T12:16:20+00:00",
+     "description": "Bayli King - Part of being a successful trainer is being able to work with all fitness levels & overcoming adversity while achieving results.",
+     "breadcrumb": {
+      "@id": "https://sohofittampa.com/bayli-king/#breadcrumb"
+     },
+     "inLanguage": "en-US",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://sohofittampa.com/bayli-king/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://sohofittampa.com/bayli-king/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "https://sohofittampa.com/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Bayli King"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://sohofittampa.com/#website",
+     "url": "https://sohofittampa.com/",
+     "name": "Soho Fit Tampa",
+     "description": "Personal Training Fitness Studio",
+     "publisher": {
+      "@id": "https://sohofittampa.com/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://sohofittampa.com/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://sohofittampa.com/#organization",
+     "name": "Soho Fit Tampa",
+     "url": "https://sohofittampa.com/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://sohofittampa.com/#/schema/logo/image/",
+      "url": "https://sohofittampa.com/wp-content/uploads/2022/09/cropped-Screen-Shot-2022-09-13-at-7.34.23-AM.png",
+      "contentUrl": "https://sohofittampa.com/wp-content/uploads/2022/09/cropped-Screen-Shot-2022-09-13-at-7.34.23-AM.png",
+      "width": 1034,
+      "height": 352,
+      "caption": "Soho Fit Tampa"
+     },
+     "image": {
+      "@id": "https://sohofittampa.com/#/schema/logo/image/"
+     },
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100085231894320"
+     ]
+    }
+   ]
+  },
+  "jsonld_raw_count": 1
+ },
+ "photos": [
+  {
+   "type": "image",
+   "source_url": "https://sohofittampa.com/wp-content/uploads/2025/07/Bayli-Monck.jpg",
+   "alt": null,
+   "asset_id": "A0461",
+   "local_path": "public/assets/trainers/Bayli-Monck.jpg"
+  }
+ ],
+ "bio_intro_md": [],
+ "bio_qa": [
+  {
+   "question": "How long have you been in fitness, and can you describe your journey?",
+   "answer_md": "Fitness has been a part of my life for as long as I can remember. I grew up in a family where movement, competition, and health were simply part of our everyday lifestyle. My mom worked in the fitness industry, my dad coached volleyball, and all four of us siblings competed in sports at the collegiate level. For us, the gym wasn’t just a place to work out—it was where we learned discipline, built resilience, and created strong connections.\n\nI played nearly every sport growing up, but volleyball and basketball became my focus. That passion led me to play collegiate volleyball at Montana State University Billings, where I earned my degree in Exercise Science and Kinesiology and had the incredible opportunity to break multiple school records.\n\nSince college, my relationship with fitness has only deepened. I’ve explored all kinds of movement—from hiking, yoga, and Pilates to strength training, walking, and running. Fitness remains a lifelong passion, not just physically but as a source of personal growth and joy. Now, as a trainer, I love helping others find that same connection—empowering them to become the healthiest, strongest version of themselves."
+  },
+  {
+   "question": "What made you want to get into fitness coaching?",
+   "answer_md": "I became a coach because I know how confusing and overwhelming fitness can feel when you don’t know where to start. I wanted to be the person who helps make that first step feel exciting, not intimidating.\n\nI’m passionate about helping others discover that fitness can be fun, rewarding, and empowering. I love seeing people grow—whether that’s gaining strength, confidence, or just reconnecting with the joy of movement. There’s nothing more fulfilling than watching someone realize what they’re truly capable of."
+  },
+  {
+   "question": "What advice would you give to someone exploring personal training?",
+   "answer_md": "My biggest piece of advice? Embrace being a beginner again. It’s okay not to know everything—what matters is showing up and being open to the journey.\n\nProgress comes from consistency, curiosity, and trusting that your body is capable of more than you think. You don’t have to have all the answers on day one. Start small, stay committed, and give yourself grace along the way. And most of all—have fun with it. This journey can take you places you never expected, and it all starts with one step."
+  },
+  {
+   "question": "What is a highlight in your fitness career you’re especially proud of?",
+   "answer_md": "One of the most rewarding chapters of my career was working as a Health Coach, where I supported over 350 clients in transforming their health and lifestyle. From weight loss to reversing metabolic conditions and even reducing or eliminating medications through sustainable habit changes—it was deeply meaningful work.\n\nWhat made it especially impactful was the emphasis on education. I taught clients how to understand their bodies, build healthier routines, and maintain those changes long-term. Watching people take ownership of their health—and truly feel empowered doing so—is something I’ll always be proud of.\n\nI’ve also worked with a wide range of clients—from kids building confidence in the gym, to seniors improving mobility and independence, to athletes chasing performance goals. Seeing people at every stage of life get stronger, healthier, and more self-assured is the ultimate reward."
+  },
+  {
+   "question": "What do you enjoy doing in your spare time?",
+   "answer_md": "Outside of the gym, I love being active in other ways—going on walks, reading, traveling, and trying new things. I’m a lifelong learner and enjoy experimenting with new recipes or diving into creative hobbies. I also have a very sweet (and spunky!) mini dachshund named Finn, who keeps life fun. Quality time with family and friends—especially a good game night—is one of my favorite ways to unwind."
+  },
+  {
+   "question": "What unique skills or special experience do you bring to your training clients?",
+   "answer_md": "I bring a diverse background to the table—one that blends athletic performance, injury recovery, health coaching, and pre/postnatal support.\n\nWith years of volleyball coaching, I especially love working with athletes to improve speed, agility, quickness, and strength. I also have an extensive background in healthcare, which gives me a deep understanding of the body and how to design safe, effective programs for clients of all ages and ability levels.\n\nI’ve worked closely with seniors, clients rehabbing injuries, and expectant or postpartum mothers. And being recently engaged myself, I totally understand the motivation to feel your best for special life moments—so I love helping people prepare for weddings, vacations, or milestone events."
+  }
+ ],
+ "directory_cards": [
+  {
+   "page": "https://sohofittampa.com/",
+   "card_image": {
+    "type": "image",
+    "source_url": "https://sohofittampa.com/wp-content/uploads/2025/07/Baylis.jpg",
+    "alt": null,
+    "asset_id": "A0462",
+    "local_path": "public/assets/trainers/Baylis.jpg"
+   },
+   "card_headings": [
+    "In-Studio Personal Trainer",
+    "Bayli King"
+   ],
+   "cta_label": "Learn More About Bayli King",
+   "cta_href": "https://sohofittampa.com/bayli-king/"
+  },
+  {
+   "page": "https://sohofittampa.com/trainers/",
+   "card_image": {
+    "type": "image",
+    "source_url": "https://sohofittampa.com/wp-content/uploads/2025/07/Baylis.jpg",
+    "alt": null,
+    "asset_id": "A0462",
+    "local_path": "public/assets/trainers/Baylis.jpg"
+   },
+   "card_headings": [
+    "In-Studio Personal Trainer",
+    "Bayli King"
+   ],
+   "cta_label": "Learn More About Bayli King",
+   "cta_href": "https://sohofittampa.com/bayli-king/"
+  }
+ ],
+ "specialties_mentioned": null,
+ "content_file": "content/trainers/bayli-king.md",
+ "page_content_file": "content/pages/bayli-king.md",
+ "screenshot": "research/screenshots/desktop/bayli-king.jpg",
+ "related_asset_ids": [
+  "A0461",
+  "A0425"
+ ]
+}

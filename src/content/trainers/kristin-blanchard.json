@@ -1,0 +1,200 @@
+{
+ "slug": "kristin-blanchard",
+ "name": null,
+ "name_from_nav": "Kristin Blanchard",
+ "title": "KRISTIN BLANCHARD",
+ "url": "https://sohofittampa.com/kristin-blanchard/",
+ "seo": {
+  "title": "Kristin Blanchard - Certified Personal Trainer - Soho Fit Tampa",
+  "meta_description": "My specialty is working with women who want to gain muscle and lose body fat. If you’re looking for that “toned” look, building muscle is essential.",
+  "canonical": "https://sohofittampa.com/kristin-blanchard/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "open_graph": {
+   "og:url": "https://sohofittampa.com/kristin-blanchard/",
+   "og:type": "article",
+   "og:title": "Kristin Blanchard - Certified Personal Trainer - Soho Fit Tampa",
+   "og:description": "My specialty is working with women who want to gain muscle and lose body fat. If you’re looking for that “toned” look, building muscle is essential.",
+   "og:image": "",
+   "og:locale": "en_US",
+   "og:site_name": "Soho Fit Tampa",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "3 minutes"
+  },
+  "h1": [
+   "TAKE CONTROL OF YOUR HEALTH"
+  ],
+  "yoast_schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://sohofittampa.com/kristin-blanchard/",
+     "url": "https://sohofittampa.com/kristin-blanchard/",
+     "name": "Kristin Blanchard - Certified Personal Trainer - Soho Fit Tampa",
+     "isPartOf": {
+      "@id": "https://sohofittampa.com/#website"
+     },
+     "datePublished": "2025-08-29T14:44:21+00:00",
+     "dateModified": "2026-10-07T12:21:27+00:00",
+     "description": "My specialty is working with women who want to gain muscle and lose body fat. If you’re looking for that “toned” look, building muscle is essential.",
+     "breadcrumb": {
+      "@id": "https://sohofittampa.com/kristin-blanchard/#breadcrumb"
+     },
+     "inLanguage": "en-US",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://sohofittampa.com/kristin-blanchard/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://sohofittampa.com/kristin-blanchard/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "https://sohofittampa.com/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Kristin Blanchard"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://sohofittampa.com/#website",
+     "url": "https://sohofittampa.com/",
+     "name": "Soho Fit Tampa",
+     "description": "Personal Training Fitness Studio",
+     "publisher": {
+      "@id": "https://sohofittampa.com/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://sohofittampa.com/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://sohofittampa.com/#organization",
+     "name": "Soho Fit Tampa",
+     "url": "https://sohofittampa.com/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://sohofittampa.com/#/schema/logo/image/",
+      "url": "https://sohofittampa.com/wp-content/uploads/2022/09/cropped-Screen-Shot-2022-09-13-at-7.34.23-AM.png",
+      "contentUrl": "https://sohofittampa.com/wp-content/uploads/2022/09/cropped-Screen-Shot-2022-09-13-at-7.34.23-AM.png",
+      "width": 1034,
+      "height": 352,
+      "caption": "Soho Fit Tampa"
+     },
+     "image": {
+      "@id": "https://sohofittampa.com/#/schema/logo/image/"
+     },
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100085231894320"
+     ]
+    }
+   ]
+  },
+  "jsonld_raw_count": 1
+ },
+ "photos": [
+  {
+   "type": "image",
+   "source_url": "https://sohofittampa.com/wp-content/uploads/2025/10/Kristin1.jpg",
+   "alt": null,
+   "asset_id": "A0475",
+   "local_path": "public/assets/trainers/Kristin1.jpg"
+  }
+ ],
+ "bio_intro_md": [],
+ "bio_qa": [
+  {
+   "question": "How long have you been in fitness and can you describe your journey?",
+   "answer_md": "Fitness has been an integral part of my life since childhood. I began playing competitive soccer at a young age and fell in love with the discipline and challenge of pushing my body and mind beyond their perceived limits. After soccer, I struggled to find a similar outlet in my daily routine until I discovered strength training. The ability to enter each workout with the intention of self-improvement instilled in me a sense of confidence that permeated all aspects of my life. Recognizing the transformative power of fitness, particularly for women, I embarked on a career in fitness. Initially, I worked as a group fitness instructor and in fitness management. Later, I transitioned to one-on-one coaching to have a more direct impact on my clients."
+  },
+  {
+   "question": "What made you want to get into fitness coaching?",
+   "answer_md": "I became a coach because I wanted to share the profound impact that a strong body and mind can have. Through group fitness, I discovered that many women were intimidated by strength training but desired the look and feel of a stronger physique. My goal is to eliminate the intimidation factor and demonstrate how to achieve their desired results, whether it’s gaining muscle, losing fat, becoming stronger, or a combination of all. I want women to understand the value of building muscle, not just for aesthetics, but also for their health and longevity."
+  },
+  {
+   "question": "What advice would you give for a new client exploring personal training to get started in their fitness journey or to enhance their current routine?",
+   "answer_md": "Just start. The first step is always the most challenging. It doesn’t have to be all or nothing. Focus on finding small, daily actions that move you closer to your goals. Regardless of where you are in your fitness and health journey, having a coach can provide the guidance and accountability you need to take action. One of my favorite quotes is “if nothing changes, nothing changes.” We must be willing to make changes if we want different outcomes!"
+  },
+  {
+   "question": "What is a success highlight in your fitness career that you’re particularly proud of?",
+   "answer_md": "The most rewarding aspect of my work is witnessing my clients achieve feats they once deemed impossible. Whether it’s lifting a weight they thought was insurmountable or pushing themselves to an extra 30 seconds at a challenging pace, these small victories accumulate and foster a profound sense of self-assurance. This is the transformative power of fitness, transcending mere physical transformations. A recent milestone involved assisting a client in shedding over 75 pounds and profoundly altering her life. She acquired the skills to sustain her weight loss, rejecting the quick fixes that had previously characterized her weight loss journey."
+  },
+  {
+   "question": "What are some things you like to do in your spare time?",
+   "answer_md": "I’m a homebody! When I’m not working or training, you can usually find me relaxing at home with my husband and two English bulldogs. I love taking long walks along Bayshore or spending an afternoon at the dog beach with my pups."
+  },
+  {
+   "question": "What are some special skill sets and things that your clients should know about you?",
+   "answer_md": "My specialty is working with women who want to gain muscle and lose body fat. If you’re looking for that “toned” look, building muscle is essential. That means lifting heavy weights (for you) with great technique. I focus on progressive overload, gradually increasing the weight lifted. If your goal is to look good, move well, and feel strong, I’m here to help!"
+  }
+ ],
+ "directory_cards": [
+  {
+   "page": "https://sohofittampa.com/",
+   "card_image": {
+    "type": "image",
+    "source_url": "https://sohofittampa.com/wp-content/uploads/2025/10/Kristin1.jpg",
+    "alt": null,
+    "asset_id": "A0475",
+    "local_path": "public/assets/trainers/Kristin1.jpg"
+   },
+   "card_headings": [
+    "In-Studio Personal Trainer",
+    "Kristin"
+   ],
+   "cta_label": "Learn More About Kristin Blanchard",
+   "cta_href": "https://sohofittampa.com/kristin-blanchard/"
+  },
+  {
+   "page": "https://sohofittampa.com/trainers/",
+   "card_image": {
+    "type": "image",
+    "source_url": "https://sohofittampa.com/wp-content/uploads/2025/10/Kristin1.jpg",
+    "alt": null,
+    "asset_id": "A0475",
+    "local_path": "public/assets/trainers/Kristin1.jpg"
+   },
+   "card_headings": [
+    "In-Studio Personal Trainer",
+    "Kristin"
+   ],
+   "cta_label": "Learn More About Kristin Blanchard",
+   "cta_href": "https://sohofittampa.com/kristin-blanchard/"
+  }
+ ],
+ "specialties_mentioned": null,
+ "content_file": "content/trainers/kristin-blanchard.md",
+ "page_content_file": "content/pages/kristin-blanchard.md",
+ "screenshot": "research/screenshots/desktop/kristin-blanchard.jpg",
+ "related_asset_ids": [
+  "A0475",
+  "A0425"
+ ]
+}

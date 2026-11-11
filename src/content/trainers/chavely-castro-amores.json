@@ -1,0 +1,201 @@
+{
+ "slug": "chavely-castro-amores",
+ "name": "CHAVELY CASTRO-AMORES",
+ "name_from_nav": "Chavely Castro Amores",
+ "title": "Certified Personal Trainer\nBilingual Trainer | English & Spanish",
+ "url": "https://sohofittampa.com/chavely-castro-amores/",
+ "seo": {
+  "title": "Chavely Castro Amores - Certified Personal Trainer - Soho Fit Tampa",
+  "meta_description": "Chavely Castro Amores - I have been in fitness my whole life. As a young Lacrosse athlete, I understood very early in life what it meant to take care of yourself on and off-season.",
+  "canonical": "https://sohofittampa.com/chavely-castro-amores/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "open_graph": {
+   "og:url": "https://sohofittampa.com/chavely-castro-amores/",
+   "og:type": "article",
+   "og:title": "Chavely Castro Amores - Certified Personal Trainer - Soho Fit Tampa",
+   "og:description": "Chavely Castro Amores - I have been in fitness my whole life. As a young Lacrosse athlete, I understood very early in life what it meant to take care of yourself on and off-season.",
+   "og:image": "",
+   "og:locale": "en_US",
+   "og:site_name": "Soho Fit Tampa",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "4 minutes"
+  },
+  "h1": [
+   "CHAVELY CASTRO-AMORES",
+   "TAKE CONTROL OF YOUR HEALTH"
+  ],
+  "yoast_schema": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "WebPage",
+     "@id": "https://sohofittampa.com/chavely-castro-amores/",
+     "url": "https://sohofittampa.com/chavely-castro-amores/",
+     "name": "Chavely Castro Amores - Certified Personal Trainer - Soho Fit Tampa",
+     "isPartOf": {
+      "@id": "https://sohofittampa.com/#website"
+     },
+     "datePublished": "2026-03-23T11:25:55+00:00",
+     "dateModified": "2026-10-07T12:23:20+00:00",
+     "description": "Chavely Castro Amores - I have been in fitness my whole life. As a young Lacrosse athlete, I understood very early in life what it meant to take care of yourself on and off-season.",
+     "breadcrumb": {
+      "@id": "https://sohofittampa.com/chavely-castro-amores/#breadcrumb"
+     },
+     "inLanguage": "en-US",
+     "potentialAction": [
+      {
+       "@type": "ReadAction",
+       "target": [
+        "https://sohofittampa.com/chavely-castro-amores/"
+       ]
+      }
+     ]
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://sohofittampa.com/chavely-castro-amores/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "https://sohofittampa.com/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Chavely Castro Amores"
+      }
+     ]
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://sohofittampa.com/#website",
+     "url": "https://sohofittampa.com/",
+     "name": "Soho Fit Tampa",
+     "description": "Personal Training Fitness Studio",
+     "publisher": {
+      "@id": "https://sohofittampa.com/#organization"
+     },
+     "potentialAction": [
+      {
+       "@type": "SearchAction",
+       "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://sohofittampa.com/?s={search_term_string}"
+       },
+       "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+       }
+      }
+     ],
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "Organization",
+     "@id": "https://sohofittampa.com/#organization",
+     "name": "Soho Fit Tampa",
+     "url": "https://sohofittampa.com/",
+     "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://sohofittampa.com/#/schema/logo/image/",
+      "url": "https://sohofittampa.com/wp-content/uploads/2022/09/cropped-Screen-Shot-2022-09-13-at-7.34.23-AM.png",
+      "contentUrl": "https://sohofittampa.com/wp-content/uploads/2022/09/cropped-Screen-Shot-2022-09-13-at-7.34.23-AM.png",
+      "width": 1034,
+      "height": 352,
+      "caption": "Soho Fit Tampa"
+     },
+     "image": {
+      "@id": "https://sohofittampa.com/#/schema/logo/image/"
+     },
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100085231894320"
+     ]
+    }
+   ]
+  },
+  "jsonld_raw_count": 1
+ },
+ "photos": [
+  {
+   "type": "image",
+   "source_url": "https://sohofittampa.com/wp-content/uploads/2026/03/IMG_3077-rotated.jpeg",
+   "alt": "Chavely Castro-Amores",
+   "asset_id": "A0482",
+   "local_path": "public/assets/trainers/IMG_3077-rotated.jpeg"
+  }
+ ],
+ "bio_intro_md": [],
+ "bio_qa": [
+  {
+   "question": "How long have you been in fitness and can you describe your journey?",
+   "answer_md": "I’ve been training professionally for 8 years, but I fell in love with fitness around age 18. My biggest motivation at the start was wanting to look and feel my absolute best so I could reach my full potential in every area of life. Over time, I realized the gym was giving me so much more than physical changes — it built my confidence, resilience, discipline, and mental strength.\n\nThat transformation sparked a passion in me to help other women experience the same thing. Since then, I’ve worked with hundreds of women across multiple states, helping them achieve their fitness goals while also giving them the tools to sustain a healthy lifestyle long-term.\n\nMy specialties include Strength Training, Weight Loss, Nutrition, Ante- and Post-Natal Fitness, Glute Development (Glute Specialist Certified), and Corrective Exercise. I’ve also helped many clients return to pain-free movement after injuries, which is one of the most rewarding parts of what I do."
+  },
+  {
+   "question": "What made you want to get into fitness coaching?",
+   "answer_md": "I truly fell in love with how fitness transformed both my physical and mental health. The gym became a constant in my life — a place where I could challenge myself, clear my mind, and build confidence. Very early on, I knew I wanted to help others experience that same empowerment.\n\nI’m especially passionate about supporting women of all ages who may feel intimidated by the gym or by lifting weights. Nothing makes me happier than watching someone go from unsure or nervous to confident, strong, and proud of what their body can do. Helping women realize they are capable of more than they thought is what keeps me motivated every day."
+  },
+  {
+   "question": "What advice would you give for a new client exploring personal training to get started in their fitness journey or to enhance their current routine?",
+   "answer_md": "Start where you are, not where you think you “should” be. Consistency will always beat perfection. Focus on building strong fundamentals, learning proper form, and creating habits you can realistically maintain.\n\nIt’s also important to find a program — and a coach — that meets you as an individual. Your lifestyle, stress levels, schedule, and goals all matter. Fitness shouldn’t feel like punishment; it should feel like something that enhances your life.\n\nMost importantly, be patient with yourself. Real, sustainable progress takes time, but the confidence and strength you build along the way are worth it."
+  },
+  {
+   "question": "What is a success highlight in your fitness career that you’re particularly proud of?",
+   "answer_md": "One of the things I’m most proud of isn’t just physical transformations, but the internal ones. Seeing clients go from doubting themselves to walking into the gym confidently, lifting weights they never thought possible, or finally feeling comfortable in their own skin is incredibly rewarding.\n\nI’ve also had the privilege of helping women through major life phases — postpartum recovery, injury rehabilitation, and significant weight-loss journeys. Watching them regain strength, energy, and trust in their bodies is something I never take for granted."
+  },
+  {
+   "question": "What are some things you like to do in your spare time?",
+   "answer_md": "Outside of training, I love anything that helps me recharge and stay balanced. I enjoy staying active, trying new workouts, spending time outdoors, and connecting with friends and family. I’m also big on personal growth, whether that’s learning something new, working on mindset, or simply taking time to rest and reset."
+  },
+  {
+   "question": "What are some special skill sets and things that your clients should know about you?",
+   "answer_md": "My approach is very personalized — I don’t believe in one-size-fits-all programs. I take the time to understand each client’s body, goals, limitations, and lifestyle so we can create something sustainable and effective.\n\nBecause of my background in corrective exercise and working with injuries, I’m especially attentive to form, mobility, and pain-free movement. Clients can expect to be challenged, but always in a way that feels safe and supportive.\n\nMost importantly, I strive to create an environment where clients feel encouraged, not judged. My goal isn’t just to help you reach a goal temporarily — it’s to give you the knowledge, confidence, and habits to maintain results for life."
+  }
+ ],
+ "directory_cards": [
+  {
+   "page": "https://sohofittampa.com/",
+   "card_image": {
+    "type": "image",
+    "source_url": "https://sohofittampa.com/wp-content/uploads/2026/03/IMG_3077-rotated.jpeg",
+    "alt": "Chavely Castro-Amores",
+    "asset_id": "A0482",
+    "local_path": "public/assets/trainers/IMG_3077-rotated.jpeg"
+   },
+   "card_headings": [
+    "In-Studio Personal Trainer",
+    "Chavely Castro-Amores"
+   ],
+   "cta_label": "Learn More About Chavely Castro-Amores",
+   "cta_href": "https://sohofittampa.com/chavely-castro-amores/"
+  },
+  {
+   "page": "https://sohofittampa.com/trainers/",
+   "card_image": {
+    "type": "image",
+    "source_url": "https://sohofittampa.com/wp-content/uploads/2026/03/IMG_3077-rotated.jpeg",
+    "alt": "Chavely Castro-Amores",
+    "asset_id": "A0482",
+    "local_path": "public/assets/trainers/IMG_3077-rotated.jpeg"
+   },
+   "card_headings": [
+    "In-Studio Personal Trainer",
+    "CHAVELY CASTRO-AMORES"
+   ],
+   "cta_label": "Learn More About Chavely Castro-Amores",
+   "cta_href": "https://sohofittampa.com/chavely-castro-amores/"
+  }
+ ],
+ "specialties_mentioned": null,
+ "content_file": "content/trainers/chavely-castro-amores.md",
+ "page_content_file": "content/pages/chavely-castro-amores.md",
+ "screenshot": "research/screenshots/desktop/chavely-castro-amores.jpg",
+ "related_asset_ids": [
+  "A0482",
+  "A0425"
+ ]
+}

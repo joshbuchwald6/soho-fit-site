@@ -1,0 +1,624 @@
+{
+ "photos": {
+  "studio-trx": {
+   "source": "public/assets/studio/36.jpeg",
+   "note": "TRX strap detail, studio",
+   "variants": [
+    {
+     "file": "studio-trx-1800.webp",
+     "w": 1800,
+     "h": 1200
+    },
+    {
+     "file": "studio-trx-1000.webp",
+     "w": 1000,
+     "h": 667
+    }
+   ]
+  },
+  "studio-glove": {
+   "source": "public/assets/studio/4.jpeg",
+   "note": "Boxing glove on bench, studio",
+   "variants": [
+    {
+     "file": "studio-glove-1800.webp",
+     "w": 1800,
+     "h": 1200
+    },
+    {
+     "file": "studio-glove-1000.webp",
+     "w": 1000,
+     "h": 667
+    }
+   ]
+  },
+  "studio-floor": {
+   "source": "public/assets/studio/20211004_080204-scaled-1.jpeg",
+   "note": "Studio floor, wide",
+   "variants": [
+    {
+     "file": "studio-floor-2400.webp",
+     "w": 2400,
+     "h": 1121
+    },
+    {
+     "file": "studio-floor-1200.webp",
+     "w": 1200,
+     "h": 561
+    }
+   ]
+  },
+  "studio-rack": {
+   "source": "public/assets/studio/20211004_080112-1-scaled-1.jpeg",
+   "note": "Racks and bag, wide",
+   "variants": [
+    {
+     "file": "studio-rack-2400.webp",
+     "w": 2400,
+     "h": 1121
+    },
+    {
+     "file": "studio-rack-1200.webp",
+     "w": 1200,
+     "h": 561
+    }
+   ]
+  },
+  "studio-doors": {
+   "source": "public/assets/studio/20211004_080520-scaled-1.jpeg",
+   "note": "French doors and dumbbells",
+   "variants": [
+    {
+     "file": "studio-doors-2400.webp",
+     "w": 2400,
+     "h": 1121
+    },
+    {
+     "file": "studio-doors-1200.webp",
+     "w": 1200,
+     "h": 561
+    }
+   ]
+  },
+  "studio-cardio": {
+   "source": "public/assets/studio/20211004_080009-1-scaled-1.jpeg",
+   "note": "Cardio and turf",
+   "variants": [
+    {
+     "file": "studio-cardio-2400.webp",
+     "w": 2400,
+     "h": 1121
+    },
+    {
+     "file": "studio-cardio-1200.webp",
+     "w": 1200,
+     "h": 561
+    }
+   ]
+  },
+  "studio-room": {
+   "source": "public/assets/studio/6.jpeg",
+   "note": "Cardio room",
+   "variants": [
+    {
+     "file": "studio-room-1800.webp",
+     "w": 1800,
+     "h": 1200
+    },
+    {
+     "file": "studio-room-1000.webp",
+     "w": 1000,
+     "h": 667
+    }
+   ]
+  },
+  "studio-tall": {
+   "source": "public/assets/studio/IMG_20230112_150111.jpg",
+   "note": "Studio, portrait",
+   "variants": [
+    {
+     "file": "studio-tall-1200.webp",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "file": "studio-tall-700.webp",
+     "w": 700,
+     "h": 933
+    }
+   ]
+  },
+  "studio-mural": {
+   "source": "public/assets/studio/20211004_080143-scaled-1.jpeg",
+   "note": "Studio mural wall",
+   "variants": [
+    {
+     "file": "studio-mural-2400.webp",
+     "w": 2400,
+     "h": 1121
+    },
+    {
+     "file": "studio-mural-1200.webp",
+     "w": 1200,
+     "h": 561
+    }
+   ]
+  },
+  "svc-stretch": {
+   "source": "public/assets/services/Assisted-Stretch-Sessions-at-Soho-Fit.jpg",
+   "note": "Assisted stretch",
+   "variants": [
+    {
+     "file": "svc-stretch-1024.webp",
+     "w": 1024,
+     "h": 1024
+    },
+    {
+     "file": "svc-stretch-600.webp",
+     "w": 600,
+     "h": 600
+    }
+   ]
+  },
+  "svc-athome": {
+   "source": "public/assets/services/AtHome-PersonalTraining-Box.jpg",
+   "note": "At-home training",
+   "variants": [
+    {
+     "file": "svc-athome-1500.webp",
+     "w": 1500,
+     "h": 1500
+    },
+    {
+     "file": "svc-athome-700.webp",
+     "w": 700,
+     "h": 700
+    }
+   ]
+  },
+  "svc-corporate": {
+   "source": "public/assets/services/corporate-wellness.jpg",
+   "note": "Corporate wellness",
+   "variants": [
+    {
+     "file": "svc-corporate-1500.webp",
+     "w": 1500,
+     "h": 1800
+    },
+    {
+     "file": "svc-corporate-700.webp",
+     "w": 700,
+     "h": 840
+    }
+   ]
+  },
+  "svc-youth": {
+   "source": "public/assets/services/Untitled-design-1.png",
+   "note": "Youth training",
+   "variants": [
+    {
+     "file": "svc-youth-1500.webp",
+     "w": 1500,
+     "h": 1800
+    },
+    {
+     "file": "svc-youth-700.webp",
+     "w": 700,
+     "h": 840
+    }
+   ]
+  },
+  "svc-prenatal": {
+   "source": "public/assets/services/Untitled-design-3.png",
+   "note": "Prenatal training",
+   "variants": [
+    {
+     "file": "svc-prenatal-1500.webp",
+     "w": 1500,
+     "h": 1800
+    },
+    {
+     "file": "svc-prenatal-700.webp",
+     "w": 700,
+     "h": 840
+    }
+   ]
+  },
+  "svc-inbody": {
+   "source": "public/assets/services/inbody.jpg",
+   "note": "InBody 270 scan",
+   "variants": [
+    {
+     "file": "svc-inbody-1500.webp",
+     "w": 1500,
+     "h": 1500
+    },
+    {
+     "file": "svc-inbody-700.webp",
+     "w": 700,
+     "h": 700
+    }
+   ]
+  },
+  "svc-nutrition": {
+   "source": "public/assets/studio/FB_IMG_1601480252460.jpeg",
+   "note": "Meal prep",
+   "variants": [
+    {
+     "file": "svc-nutrition-1080.webp",
+     "w": 1080,
+     "h": 1080
+    },
+    {
+     "file": "svc-nutrition-700.webp",
+     "w": 700,
+     "h": 700
+    }
+   ]
+  }
+ },
+ "trainers": {
+  "andrew-dunbuss": {
+   "source": "public/assets/trainers/Trainers-Andrew-Busse.jpg",
+   "variants": [
+    {
+     "file": "t-andrew-dunbuss-589.webp",
+     "w": 589,
+     "h": 737
+    }
+   ]
+  },
+  "ashton-leal": {
+   "source": "public/assets/trainers/Ashton-Leal.jpg",
+   "variants": [
+    {
+     "file": "t-ashton-leal-589.webp",
+     "w": 589,
+     "h": 737
+    }
+   ]
+  },
+  "bayli-king": {
+   "source": "public/assets/trainers/Baylis.jpg",
+   "variants": [
+    {
+     "file": "t-bayli-king-589.webp",
+     "w": 589,
+     "h": 737
+    }
+   ]
+  },
+  "chavely-castro-amores": {
+   "source": "public/assets/trainers/IMG_3077-rotated.jpeg",
+   "variants": [
+    {
+     "file": "t-chavely-castro-amores-480.webp",
+     "w": 480,
+     "h": 600
+    }
+   ]
+  },
+  "cole-ringquist": {
+   "source": "public/assets/trainers/col.jpg",
+   "variants": [
+    {
+     "file": "t-cole-ringquist-480.webp",
+     "w": 480,
+     "h": 600
+    }
+   ]
+  },
+  "jake-morran": {
+   "source": "public/assets/trainers/Jake-Morran-1.jpg",
+   "variants": [
+    {
+     "file": "t-jake-morran-589.webp",
+     "w": 589,
+     "h": 737
+    }
+   ]
+  },
+  "jd": {
+   "source": "public/assets/trainers/Trainers-JD-White.jpg",
+   "variants": [
+    {
+     "file": "t-jd-589.webp",
+     "w": 589,
+     "h": 737
+    }
+   ]
+  },
+  "joe-berg": {
+   "source": "public/assets/trainers/Soho-Fit-Portrait-Design1.jpg",
+   "variants": [
+    {
+     "file": "t-joe-berg-589.webp",
+     "w": 589,
+     "h": 737
+    }
+   ]
+  },
+  "kristin-blanchard": {
+   "source": "public/assets/trainers/Kristin1.jpg",
+   "variants": [
+    {
+     "file": "t-kristin-blanchard-589.webp",
+     "w": 589,
+     "h": 737
+    }
+   ]
+  },
+  "lisa-scalzo": {
+   "source": "public/assets/trainers/Lisa-Scalzo.jpg",
+   "variants": [
+    {
+     "file": "t-lisa-scalzo-480.webp",
+     "w": 480,
+     "h": 600
+    }
+   ]
+  },
+  "roman-blake": {
+   "source": "public/assets/trainers/roman.jpg",
+   "variants": [
+    {
+     "file": "t-roman-blake-589.webp",
+     "w": 589,
+     "h": 737
+    }
+   ]
+  },
+  "tyler-ding": {
+   "source": "public/assets/trainers/Trainers-Tyler-Ding-2.jpg",
+   "variants": [
+    {
+     "file": "t-tyler-ding-589.webp",
+     "w": 589,
+     "h": 737
+    }
+   ]
+  }
+ },
+ "duotones": {
+  "studio-trx": {
+   "tone": "blue",
+   "variants": [
+    {
+     "file": "studio-trx-blue-1800.webp",
+     "w": 1800,
+     "h": 1200
+    },
+    {
+     "file": "studio-trx-blue-1000.webp",
+     "w": 1000,
+     "h": 667
+    }
+   ]
+  },
+  "studio-glove": {
+   "tone": "red",
+   "variants": [
+    {
+     "file": "studio-glove-red-1800.webp",
+     "w": 1800,
+     "h": 1200
+    },
+    {
+     "file": "studio-glove-red-1000.webp",
+     "w": 1000,
+     "h": 667
+    }
+   ]
+  },
+  "studio-floor": {
+   "tone": "blue",
+   "variants": [
+    {
+     "file": "studio-floor-blue-2400.webp",
+     "w": 2400,
+     "h": 1121
+    },
+    {
+     "file": "studio-floor-blue-1200.webp",
+     "w": 1200,
+     "h": 561
+    }
+   ]
+  },
+  "studio-rack": {
+   "tone": "red",
+   "variants": [
+    {
+     "file": "studio-rack-red-2400.webp",
+     "w": 2400,
+     "h": 1121
+    },
+    {
+     "file": "studio-rack-red-1200.webp",
+     "w": 1200,
+     "h": 561
+    }
+   ]
+  },
+  "studio-doors": {
+   "tone": "blue",
+   "variants": [
+    {
+     "file": "studio-doors-blue-2400.webp",
+     "w": 2400,
+     "h": 1121
+    },
+    {
+     "file": "studio-doors-blue-1200.webp",
+     "w": 1200,
+     "h": 561
+    }
+   ]
+  },
+  "studio-cardio": {
+   "tone": "red",
+   "variants": [
+    {
+     "file": "studio-cardio-red-2400.webp",
+     "w": 2400,
+     "h": 1121
+    },
+    {
+     "file": "studio-cardio-red-1200.webp",
+     "w": 1200,
+     "h": 561
+    }
+   ]
+  },
+  "studio-room": {
+   "tone": "blue",
+   "variants": [
+    {
+     "file": "studio-room-blue-1800.webp",
+     "w": 1800,
+     "h": 1200
+    },
+    {
+     "file": "studio-room-blue-1000.webp",
+     "w": 1000,
+     "h": 667
+    }
+   ]
+  },
+  "studio-tall": {
+   "tone": "red",
+   "variants": [
+    {
+     "file": "studio-tall-red-1200.webp",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "file": "studio-tall-red-700.webp",
+     "w": 700,
+     "h": 933
+    }
+   ]
+  },
+  "studio-mural": {
+   "tone": "red",
+   "variants": [
+    {
+     "file": "studio-mural-red-2400.webp",
+     "w": 2400,
+     "h": 1121
+    },
+    {
+     "file": "studio-mural-red-1200.webp",
+     "w": 1200,
+     "h": 561
+    }
+   ]
+  },
+  "svc-stretch": {
+   "tone": "blue",
+   "variants": [
+    {
+     "file": "svc-stretch-blue-1024.webp",
+     "w": 1024,
+     "h": 1024
+    },
+    {
+     "file": "svc-stretch-blue-600.webp",
+     "w": 600,
+     "h": 600
+    }
+   ]
+  },
+  "svc-athome": {
+   "tone": "red",
+   "variants": [
+    {
+     "file": "svc-athome-red-1500.webp",
+     "w": 1500,
+     "h": 1500
+    },
+    {
+     "file": "svc-athome-red-700.webp",
+     "w": 700,
+     "h": 700
+    }
+   ]
+  },
+  "svc-corporate": {
+   "tone": "blue",
+   "variants": [
+    {
+     "file": "svc-corporate-blue-1500.webp",
+     "w": 1500,
+     "h": 1800
+    },
+    {
+     "file": "svc-corporate-blue-700.webp",
+     "w": 700,
+     "h": 840
+    }
+   ]
+  },
+  "svc-youth": {
+   "tone": "red",
+   "variants": [
+    {
+     "file": "svc-youth-red-1500.webp",
+     "w": 1500,
+     "h": 1800
+    },
+    {
+     "file": "svc-youth-red-700.webp",
+     "w": 700,
+     "h": 840
+    }
+   ]
+  },
+  "svc-prenatal": {
+   "tone": "blue",
+   "variants": [
+    {
+     "file": "svc-prenatal-blue-1500.webp",
+     "w": 1500,
+     "h": 1800
+    },
+    {
+     "file": "svc-prenatal-blue-700.webp",
+     "w": 700,
+     "h": 840
+    }
+   ]
+  },
+  "svc-inbody": {
+   "tone": "red",
+   "variants": [
+    {
+     "file": "svc-inbody-red-1500.webp",
+     "w": 1500,
+     "h": 1500
+    },
+    {
+     "file": "svc-inbody-red-700.webp",
+     "w": 700,
+     "h": 700
+    }
+   ]
+  },
+  "svc-nutrition": {
+   "tone": "blue",
+   "variants": [
+    {
+     "file": "svc-nutrition-blue-1080.webp",
+     "w": 1080,
+     "h": 1080
+    },
+    {
+     "file": "svc-nutrition-blue-700.webp",
+     "w": 700,
+     "h": 700
+    }
+   ]
+  }
+ }
+}
