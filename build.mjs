@@ -783,6 +783,21 @@ const redirects = [
 for (const s of services) for (const o of s.old) redirects.push([o, `/training/${s.slug}/`]);
 for (const t of trainers) redirects.push([`/${t.slug}/`, `/trainers/${t.slug}/`]);
 write('_redirects', redirects.filter(([a, b]) => a !== b).map(([a, b]) => `${a} ${b} 301`).join('\n') + '\n');
+// Vercel reads vercel.json from the repo root: output dir, trailing slashes, same 301s as _redirects
+fs.writeFileSync(
+  path.join(__dir, 'vercel.json'),
+  JSON.stringify(
+    {
+      $schema: 'https://openapi.vercel.sh/vercel.json',
+      buildCommand: 'npm run build',
+      outputDirectory: 'dist',
+      trailingSlash: true,
+      redirects: redirects.filter(([a, b]) => a !== b).map(([source, destination]) => ({ source, destination, permanent: true })),
+    },
+    null,
+    2
+  ) + '\n'
+);
 
 // sitemap + robots
 const urls = pages.filter((p) => !p.path.endsWith('.html')).map((p) => `${business.siteUrl}/${p.path}`);

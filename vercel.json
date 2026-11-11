@@ -1,0 +1,168 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/kristin/",
+      "destination": "/trainers/kristin-blanchard/",
+      "permanent": true
+    },
+    {
+      "source": "/bayli-monck/",
+      "destination": "/trainers/bayli-king/",
+      "permanent": true
+    },
+    {
+      "source": "/welcome/",
+      "destination": "/book/",
+      "permanent": true
+    },
+    {
+      "source": "/thank-you/",
+      "destination": "/book/",
+      "permanent": true
+    },
+    {
+      "source": "/coming-soon/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/privacy-policy/",
+      "destination": "/privacy/",
+      "permanent": true
+    },
+    {
+      "source": "/studio-personal-training/",
+      "destination": "/training/in-studio/",
+      "permanent": true
+    },
+    {
+      "source": "/portfolio-item/studio-personal-training/",
+      "destination": "/training/in-studio/",
+      "permanent": true
+    },
+    {
+      "source": "/portfolio-item/start/",
+      "destination": "/training/in-studio/",
+      "permanent": true
+    },
+    {
+      "source": "/at-home-personal-training/",
+      "destination": "/training/at-home/",
+      "permanent": true
+    },
+    {
+      "source": "/portfolio-item/at-home-personal-training/",
+      "destination": "/training/at-home/",
+      "permanent": true
+    },
+    {
+      "source": "/corporate-wellness/",
+      "destination": "/training/corporate-wellness/",
+      "permanent": true
+    },
+    {
+      "source": "/portfolio-item/corporate-wellness/",
+      "destination": "/training/corporate-wellness/",
+      "permanent": true
+    },
+    {
+      "source": "/nutrition-coaching/",
+      "destination": "/training/nutrition-coaching/",
+      "permanent": true
+    },
+    {
+      "source": "/registered-dietitian-nutritionist/",
+      "destination": "/training/nutrition-coaching/",
+      "permanent": true
+    },
+    {
+      "source": "/portfolio-item/registered-dietitian-nutritionist/",
+      "destination": "/training/nutrition-coaching/",
+      "permanent": true
+    },
+    {
+      "source": "/body-composition-analysis/",
+      "destination": "/training/body-composition/",
+      "permanent": true
+    },
+    {
+      "source": "/assisted-stretch-sessions-at-soho-fit/",
+      "destination": "/training/assisted-stretch/",
+      "permanent": true
+    },
+    {
+      "source": "/personal-training-for-kids-and-teens/",
+      "destination": "/training/kids-and-teens/",
+      "permanent": true
+    },
+    {
+      "source": "/prenatal-postnatal-pelvic-floor-training/",
+      "destination": "/training/prenatal-postnatal/",
+      "permanent": true
+    },
+    {
+      "source": "/tyler-ding/",
+      "destination": "/trainers/tyler-ding/",
+      "permanent": true
+    },
+    {
+      "source": "/kristin-blanchard/",
+      "destination": "/trainers/kristin-blanchard/",
+      "permanent": true
+    },
+    {
+      "source": "/jd/",
+      "destination": "/trainers/jd/",
+      "permanent": true
+    },
+    {
+      "source": "/lisa-scalzo/",
+      "destination": "/trainers/lisa-scalzo/",
+      "permanent": true
+    },
+    {
+      "source": "/chavely-castro-amores/",
+      "destination": "/trainers/chavely-castro-amores/",
+      "permanent": true
+    },
+    {
+      "source": "/cole-ringquist/",
+      "destination": "/trainers/cole-ringquist/",
+      "permanent": true
+    },
+    {
+      "source": "/andrew-dunbuss/",
+      "destination": "/trainers/andrew-dunbuss/",
+      "permanent": true
+    },
+    {
+      "source": "/bayli-king/",
+      "destination": "/trainers/bayli-king/",
+      "permanent": true
+    },
+    {
+      "source": "/jake-morran/",
+      "destination": "/trainers/jake-morran/",
+      "permanent": true
+    },
+    {
+      "source": "/roman-blake/",
+      "destination": "/trainers/roman-blake/",
+      "permanent": true
+    },
+    {
+      "source": "/joe-berg/",
+      "destination": "/trainers/joe-berg/",
+      "permanent": true
+    },
+    {
+      "source": "/ashton-leal/",
+      "destination": "/trainers/ashton-leal/",
+      "permanent": true
+    }
+  ]
+}
